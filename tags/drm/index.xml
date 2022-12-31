@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drm on Özcan Oğuz</title>
+    <link>https://ooguz.net/tags/drm/</link>
+    <description>Recent content in drm on Özcan Oğuz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <copyright>Özcan Oğuz</copyright>
+    <lastBuildDate>Fri, 27 Mar 2020 00:38:03 +0300</lastBuildDate><atom:link href="https://ooguz.net/tags/drm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DRM tehlikesi</title>
+      <link>https://ooguz.net/posts/drm-tehlikesi/</link>
+      <pubDate>Fri, 27 Mar 2020 00:38:03 +0300</pubDate>
+      
+      <guid>https://ooguz.net/posts/drm-tehlikesi/</guid>
+      <description>Favori kitabevinizden satın aldığınız bir kitabı, yalnızca evinizin salonunda bulunmak zorunda olan, Kardeşler Mobilya&amp;rsquo;dan alınma bir koltuğa oturarak okuyabildiğinizi ve üzerine de Portakal Kalem üretimi siyah renk bir kalemle not alabildiğinizi hayal edin. Bunun haricinde yapacağınız her türlü okumanın da yasak olduğunu. Bu kitabı sadece Gomore marka bir kitaplığa koyabildiğinizi, hatta bir sabah kalktığınızda kitabın kitaplığınızdan &amp;ldquo;sözleşmesinin bittiği&amp;rdquo; gerekçesiyle yok olduğunu. Saçma gibi geliyor değil mi? Ama artık bu bir gerçek, DRM yüzünden.</description>
+      <content>&lt;p&gt;&lt;em&gt;Bu yazı, Özgür Yazılım Derneği&amp;rsquo;nin web sitesinde yayınlanmıştır.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Favori kitabevinizden satın aldığınız bir kitabı, yalnızca evinizin salonunda bulunmak zorunda olan, Kardeşler Mobilya&amp;rsquo;dan alınma bir koltuğa oturarak okuyabildiğinizi ve üzerine de Portakal Kalem üretimi siyah renk bir kalemle not alabildiğinizi hayal edin. Bunun haricinde yapacağınız her türlü okumanın da yasak olduğunu. Bu kitabı sadece Gomore marka bir kitaplığa koyabildiğinizi, hatta bir sabah kalktığınızda kitabın kitaplığınızdan &amp;ldquo;sözleşmesinin bittiği&amp;rdquo; gerekçesiyle yok olduğunu. Saçma gibi geliyor değil mi? Ama artık bu bir gerçek, DRM yüzünden.&lt;/p&gt;
+&lt;p&gt;Hayatlarımızı dijital dünyaya bu denli göç ettirmeden önce, medyaları çoğunlukla fiziksel olarak edinerek kullanmaktaydık. Örneğin müziklerimiz kasetlerde veya CD&amp;rsquo;lerde duruyordu, eğer müzik dinlemek istiyorsak ya bir dükkana gidip fiziksel olarak o albümün bir nüshasını alıp evdeki kasetçalarımıza takıp keyfimize bakmamız, ya da akşama kadar radyonun başında sevdiğimiz şarkının çalmasını beklememiz gerekiyordu. Filmler için de durum benzerdi, filmler VHS ya da Betamax gibi kaset medyalarda ya da DVD&amp;rsquo;lerde (bir dönem ise maalesef VCD&amp;rsquo;lerde) satılıyordu, filminizi alıp ya da kiralayıp, soğuk bir bira ve atıştırmalıklar eşliğinde istediğiniz gibi izleyebilirdiniz, eğer evinizde o medyayı oynatabilecek bir oynatıcı varsa tabi.&lt;/p&gt;
+&lt;p&gt;Müzik veya film gibi dijital medyalarda hep bir &amp;ldquo;format savaşı&amp;rdquo; [1] vardı, bir film Beta&amp;rsquo;ya çıkar sizde VHS vardır, MiniDisc oynatıcı almışsınızdır sevdiğiniz sanatçının sadece kaset albümü çıkmıştır, hayranlık duyarak aldığınız LaserDisc oynatıcınız için bir de bakmışsınız artık film çıkmıyor&amp;hellip; Bu sorunları yaşamadığımız yegane medya ise kitaplar olmuştur, gözleriniz görüyorsa ve ortam yeteri kadar aydınlıksa kitap okumanızın önünde bir engel yoktur, hatta körler için Braille alfabesinde yazılan kitaplar vardır. Kitaplar optik ve bant medyalar gibi dayanıksız da değildir ayrıca, ciddi şekilde ıslanmadığı, &amp;ldquo;yakılmadığı&amp;rdquo; [2] veya gümüşçükler tarafından yenmediği sürece çoğunlukla dayanır, 20 sene öncesinden sorunsuz çalışan bir kaset bulmak imkansıza yakınken, 16. yüzyılda basılan kitaplar olduğu gibi durmaktadır.&lt;/p&gt;
+&lt;p&gt;Konu sadece dayanıklılıktan veya medyayı kullanabilme özgürlüğünden ibaret değildir, bir film, albüm veya kitap &amp;ldquo;nüshası&amp;rdquo; satın aldığınızda o nüsha artık sizindir. Aldığınız bir DVD filmi ister DVD oynatıcıya takarsınız, ister bilgisayarınızda izlersiniz; medyanın dayanıksızlığını göz önüne alıp &amp;ldquo;ripleyip&amp;rdquo; bilgisayarınıza kopyalayabilirsiniz, filmi izlemek isteyen bir arkadaşınıza verebilirsiniz, üzerine gülen suratlar çizebilirsiniz, en nihayetinde de eğer ondan kurtulmak istiyorsanız satabilirsiniz. Kitaplar için de durum çok benzerdir, istediğiniz yerde okuyabilir, fotokopisini çekebilir, kitabı tarayabilir, sandalye olarak kullanabilir, bir kütüphaneye bağışlayabilirsiniz. Çünkü kitabın veya DVD&amp;rsquo;nin içerisideki veri sizin olmasa bile, &amp;ldquo;nüshası&amp;rdquo; sizindir.&lt;/p&gt;
+&lt;p&gt;Ancak mevcuttaki dijitalleşme içerisinde, fiziksel medyalardan dijital akışlara doğru bir eğilim içerisindeyiz. Normalde fiziksel medyada istense de uygulanamayan özgürlük kısıtlamaları maalesef ki dijital mecralarda uygulanabilir hale geldi. Spotify&amp;rsquo;dan dinlediğiniz bir müziği, &amp;ldquo;Premium&amp;rdquo; aboneliğiniz bitince cihazınıza indirmiş olsanız dahi dinleyebilir misiniz? Netflix&amp;rsquo;te var olan bir diziyi video oynatma yeterliliğine sahip olsa bile &amp;ldquo;Netflix uygulaması&amp;rdquo; çalışmayan bir cihazda izleyebilir misiniz? İşte bunları yapmanızı engelleyen &amp;ldquo;teknoloji&amp;rdquo; DRM&amp;rsquo;dir.&lt;/p&gt;
+&lt;p&gt;DRM, orijinal açılımıyla &amp;ldquo;Dijital Haklar Yönetimi&amp;rdquo;, doğru ifadesiyle &amp;ldquo;Dijital Kısıtlamalar Yönetimi&amp;rdquo;; indirilebilir, çevrimiçi veya aktarılan medya içeriklerinde kullanılan bir tahakküm aracıdır. Satın aldığınız, parasını ödediğiniz medyayı, kendiniz için bile olsa kullanmanızı, kopyalamanızı, paylaşmanızı veya yedeklemenizi engeller. Bunun ötesinde, DRM’in pratik zararları şunlar olabilir; bir filmi izlemek için erişilebilirlik araçlarına ihtiyaç duyuyorsanız bunları kullanamayabilirsiniz, sahibi olduğunuz medyaya istediğiniz zaman istediğiniz şekilde erişemeyebilirsiniz; türetimin ve hacklemenin doğasından gelen yaratıcılığınız, bu kısıtlamalardan dolayı yontulabilir. Hepsinden önce, DRM’in beraberinde getirdiği tahakküm mekanizmaları bireysel özgürlüklerinizi ihlal eder.&lt;/p&gt;
+&lt;p&gt;Amazon&amp;rsquo;dan bir e-kitap &amp;ldquo;satın aldığınızda&amp;rdquo;, ki kitabı aslında satın alamazsınız, yalnızca kitabı belirli koşullar dahilinde &amp;ldquo;okuma hakkını&amp;rdquo; [3] edinirsiniz, ilk paragrafta bahsedilen durumu canlı canlı yaşarsınız. Kitapları yalnızca Amazon&amp;rsquo;un ürettiği Kindle cihazlarında okuyabilir, onun istediği yerlere not alabilirsiniz. Hatta mahremiyetinize [4] de saygı gösterilmez, aldığınız notlar Amazon tarafından okunur.&lt;/p&gt;
+&lt;p&gt;Çok ironik bir biçimde, Amazon kullanıcıların &amp;ldquo;satın aldıklarını düşündükleri&amp;rdquo; George Orwell&amp;rsquo;in 1984 kitabını, kitabın yayıncısıyla olan sözleşmesinin bittiği gerekçesiyle uzaktan silmiştir [5]. Bu hissi anlamak için şöyle hayal edin, bir gece uyumadan önce 1984&amp;rsquo;ü okuyorsunuz, kitaplığınıza koyuyorsunuz, sabah kalktığınızda bulamıyorsunuz. Çiftartı iyi!&lt;/p&gt;
+&lt;p&gt;Hatta DRM marifetiyle özgürlüğümüzü ortadan kaldırmaya yemin etmiş bazı firmalar, kitaplarının &amp;ldquo;lisans sözleşmelerine&amp;rdquo; kitabı yüksek sesle okumanızın yasak olduğuna dair bir madde eklemekten bile utanmamışlardır.&lt;/p&gt;
+&lt;p&gt;Son tahlilde, DRM özgürlüğümüze düşman bir yapıdır, tasarımı gereği kusurludur [6]. Ancak elbette DRM olmadan dijital dünyadan faydalanmak da mümkündür, eskiden olduğu gibi fiziksel medyalar kullanarak, kullanıcılarını DRM&amp;rsquo;e zorlamayan hizmetleri tercih ederek [7], mümkün olmayan durumlarda ise bilgiyi ve veriyi &amp;ldquo;özgürleştirerek&amp;rdquo; DRM&amp;rsquo;siz yaşayabilir ve özgürlüğünüzü koruyabilirsiniz.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Referanslar:  
+1: u.oyd.org.tr/UI9  
+2: 451°F  
+3: u.oyd.org.tr/JEy  
+4: u.oyd.org.tr/mhr  
+5: u.oyd.org.tr/wat  
+6: u.fsf.org/dbd  
+7: defectivebydesign.org/guide  
+&lt;/code&gt;&lt;/pre&gt;</content>
+    </item>
+    
+  </channel>
+</rss>

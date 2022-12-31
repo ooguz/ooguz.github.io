@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet :: Özcan Oğuz</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Bu yazı, dijitalguvenlik.org adresinde yayınlanmıştır.
+Dijital güvenlik ve mahremiyet üzerine biraz eğildiğimizde, genellikle karşımıza yazılımlar ve yazılım güvenliği konuları çıkıyor. Kullandığımız yazılımlar, güvenliğimiz ve mahremiyetimiz için son derece önemli, ancak konu sadece bununla sınırlı değil.
+Günlük hayatımızda kullandığımız çevremizdeki pek çok donanım da aslında güvenliğimiz için birer tehdit oluşturabilmektedir. Kullandığımız bilgisayardan bindiğimiz otomobile kadar pek çok donanım, ciddi tehditler oluşturabilecek özgürlük, güvenlik ve mahremiyet sorunları içeriyor. Bu yazıda bu sorunların neler olabileceğini ve bu sorunlar için çeşitli çözüm önerilerini derledik." />
+<meta name="keywords" content="özcan, oğuz, özcan oğuz, free, software, özgür, yazılım, özgür yazılım, open source, hacker, derneği, hackerspace, personal" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://ooguz.net/posts/donanimlarinizdaki-tehlikeler/" />
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/style.css">
+
+
+
+
+
+
+
+  <link rel="shortcut icon" href="https://ooguz.net/favicon.ico">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+  
+    <meta name="twitter:site" content="ooguz" />
+  
+    <meta name="twitter:creator" content="Özcan Oğuz" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet">
+<meta property="og:description" content="Bu yazı, dijitalguvenlik.org adresinde yayınlanmıştır.
+Dijital güvenlik ve mahremiyet üzerine biraz eğildiğimizde, genellikle karşımıza yazılımlar ve yazılım güvenliği konuları çıkıyor. Kullandığımız yazılımlar, güvenliğimiz ve mahremiyetimiz için son derece önemli, ancak konu sadece bununla sınırlı değil.
+Günlük hayatımızda kullandığımız çevremizdeki pek çok donanım da aslında güvenliğimiz için birer tehdit oluşturabilmektedir. Kullandığımız bilgisayardan bindiğimiz otomobile kadar pek çok donanım, ciddi tehditler oluşturabilecek özgürlük, güvenlik ve mahremiyet sorunları içeriyor. Bu yazıda bu sorunların neler olabileceğini ve bu sorunlar için çeşitli çözüm önerilerini derledik." />
+<meta property="og:url" content="https://ooguz.net/posts/donanimlarinizdaki-tehlikeler/" />
+<meta property="og:site_name" content="Özcan Oğuz" />
+
+  <meta property="og:image" content="https://ooguz.net/img/surveillance.jpg">
+
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
+
+  <meta property="article:section" content="özgür yazılım" />
+
+  <meta property="article:section" content="donanım özgürlüğü" />
+
+  <meta property="article:section" content="mahremiyet" />
+
+
+  <meta property="article:published_time" content="2020-11-14 14:46:32 &#43;0300 &#43;03" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="red">
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    Özcan Oğuz
+  </div>
+</a>
+
+    </div>
+    
+      <div class="menu-trigger">menu</div>
+    
+  </div>
+  
+    <nav class="menu hidden-on-mobile">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/about">hakkımda</a></li>
+        
+      
+        
+          <li><a href="/portfolio">portfolyo</a></li>
+        
+      
+        
+          <li><a href="/tags/teknik">teknik</a></li>
+        
+      
+        
+          <li><a href="/tags/bilin%C3%A7-ak%C4%B1%C5%9F%C4%B1/">bilinç akışı</a></li>
+        
+      
+        
+          <li><a href="/bir-kent-masali">bir kent masalı</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/ooguz">twitter</a></li>
+        
+      
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/about">hakkımda</a></li>
+      
+    
+      
+        <li><a href="/portfolio">portfolyo</a></li>
+      
+    
+      
+        <li><a href="/tags/teknik">teknik</a></li>
+      
+    
+      
+        <li><a href="/tags/bilin%C3%A7-ak%C4%B1%C5%9F%C4%B1/">bilinç akışı</a></li>
+      
+    
+      
+        <li><a href="/bir-kent-masali">bir kent masalı</a></li>
+      
+    
+      
+        <li><a href="https://twitter.com/ooguz">twitter</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<article class="post">
+  <h1 class="post-title">
+    <a href="https://ooguz.net/posts/donanimlarinizdaki-tehlikeler/">Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet</a>
+  </h1>
+  <div class="post-meta">
+    
+      <time class="post-date">
+        2020-11-14 ::
+        
+      </time>
+    
+    
+      <span class="post-author">Özcan Oğuz</span>
+    
+    
+      <span class="post-reading-time">:: 13 dakika (2693 kelime)</span>
+    
+  </div>
+
+  
+    <span class="post-tags">
+      
+      #<a href="https://ooguz.net/tags/teknik/">teknik</a>&nbsp;
+      
+      #<a href="https://ooguz.net/tags/%C3%B6zg%C3%BCr-yaz%C4%B1l%C4%B1m/">özgür yazılım</a>&nbsp;
+      
+      #<a href="https://ooguz.net/tags/mahremiyet/">mahremiyet</a>&nbsp;
+      
+    </span>
+  
+  
+  <img src="https://ooguz.net/img/surveillance.jpg"
+    class="post-cover"
+    alt="Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet"
+    title="Cover Image" />
+
+
+  
+
+  <div class="post-content"><div>
+        <p><em>Bu yazı, dijitalguvenlik.org adresinde yayınlanmıştır.</em></p>
+<p>Dijital güvenlik ve mahremiyet üzerine biraz eğildiğimizde, genellikle karşımıza yazılımlar ve yazılım güvenliği konuları çıkıyor. Kullandığımız yazılımlar, güvenliğimiz ve mahremiyetimiz için son derece önemli, ancak konu sadece bununla sınırlı değil.</p>
+<p>Günlük hayatımızda kullandığımız çevremizdeki pek çok donanım da aslında güvenliğimiz için birer tehdit oluşturabilmektedir. Kullandığımız bilgisayardan bindiğimiz otomobile kadar pek çok donanım, ciddi tehditler oluşturabilecek özgürlük, güvenlik ve mahremiyet sorunları içeriyor. Bu yazıda bu sorunların neler olabileceğini ve bu sorunlar için çeşitli çözüm önerilerini derledik.</p>
+<h2 id="anakartınızdaki-tehlike-intel-management-engine">Anakartınızdaki tehlike: Intel Management Engine<a href="#anakartınızdaki-tehlike-intel-management-engine" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>Intel Management Engine (ME), Intel bilgisayarların içerisinde bulunan ve bilgisayarın üzerinde çok geniş kontrol imkanlarına sahip olan <a href="https://u.oyd.org.tr/oy">özel mülk</a> bir altsistemdir.</p>
+<p>İlk defa 2007 yılı civarında görülmeye başlanan ME, aslen sistem yöneticilerinin ve IT personellerinin bilgisayarları uzaktan kontrol edebilmeleri için tasarlanmış ve kurumsal kullanım için yeni bir özellik olarak lanse edilmiştir.</p>
+<p>ME, bilgisayarları uzaktan açıp kapatabilmekte, normalde bilgisayarın üzerinde olmayan bir depolama biriminden bilgisayarları başlatabilmekte ve bilgisayar donanımını tanımlayan bazı seri numaralarını uzaktan okuyabilmektedir. Normal şartlar altında kurumsal müşteriler için çok faydalı bir özellik olarak görülse de, ilerleyen yıllarda Intel bu sistemi tüm cihazlarında varsayılan olarak kullanmaya başlamış ve ME’yi kapatılamaz hale getirmiştir.</p>
+<p>Kapatılamaz hale getirilen ME, çalıştığı bilgisayarlar üzerinde %100’e yakın bir kontrole sahiptir ve RAM’inizin tamamına erişebilir. Bir sistemin RAM’inizin tamamına erişebilmesi basitçe kullandığınız bir kriptografik anahtara ve parolasına da erişebilmesi anlamına gelmektedir. Benzer bir olay, geçtiğimiz yıllarda <em>Meltdown</em> ve <em>Spectre</em> adı altında bir güvenlik açığı olarak ortaya çıkmıştı. Dolayısıyla Intel ME aktif olduğunda; parolalarınıza, kişisel verilerinize, kriptografik anahtarlarınıza ve daha pek çok verinize uzaktan ulaşılabilme imkanı doğar.</p>
+<p>Intel ME’nin içerisinde yer alan en temel uygulama olan <strong>AMT</strong> <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, uzaktan bağlanan herhangi bir kişiye sanki bağlandığı bilgisayarın başında oturuyormuşçasına o bilgisayarı yönetme imkanı sağlar. AMT’nin kablolu ve kablosuz ağ kartlarına sınırsız erişimi vardır, gelen ve giden trafiği izleyebilir veya trafiği filtreleyebilir.</p>
+<p>Ayrıca ME, DRM<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> kullanan uygulamaları da çalıştırabilmektedir. Eğer DRM’in ne olduğunu ve tehlikelerini bilmiyorsanız, <a href="https://u.oyd.org.tr/drm">buradaki</a> bağlantıdan ayrıntılı bilgi edinebilirsiniz.</p>
+<p>Asıl üzücü olan şudur ki, Intel ME aslında bir <a href="https://u.oyd.org.tr/oy">özgür yazılım</a> temel alınarak geliştirilmiştir. ME, çeşitli BSD lisansları altında geliştirilen Minix işletim sisteminin üzerine kurulmuştur ve ilgili lisanslar <a href="https://tr.wikipedia.org/wiki/Copyleft">copyleft</a> olmadığından maalesef ki özgür bir yazılım özgürlüğe karşı bir araç haline getirilebilmiştir.</p>
+<p>AMD işlemcilerde de Intel ME’nin bir benzeri olan AMD PSP (Platform Security Processor) isminde bir teknoloji mevcuttur.
+Peki Intel ME’den nasıl kurtulabilirim?</p>
+<p>Intel ME’den kurtulmanın çeşitli yolları elbette ki var, bunların en önde gelenlerinden birisi ise <a href="https://libreboot.org">Libreboot</a> projesi. Libreboot, bir grup anakart ve dizüstü bilgisayarda çalışabilen özgür bir BIOS yazılımıdır. Bilgisayarınızda halihazırda var olan mülk BIOS yazılımını Libreboot ile değiştirerek Intel ME’den kurtulabilirsiniz. Ancak hayat elbette sandığımız kadar toz pembe değil, Libreboot yalnızca Intel ME’nin işlemciye gömülü olmadığı yıllarda üretilen bilgisayarlarda, yani 2010 öncesi cihazlarda çalışabiliyor. Libreboot kurulumu çoğu durumda BIOS yazılımınızın bulunduğu yongaya dışarıdan bağlantı yapmayı gerektirdiğinden dikkatli olunmasında fayda vardır.</p>
+<p>BIOS yazılımınızı değiştirmenin başka bir yolu ise, Libreboot projesinin de temel aldığı <a href="https://coreboot.org">Coreboot</a> projesidir. Coreboot, nispeten çok daha yeni cihazlarda çalışabilmektedir. Ancak Coreboot bütünen özgür yazılım olmadığı gibi, Intel ME’yi de tamamen ortadan kaldırmaz, yalnızca <em>devre dışı bırakır</em>. Bu noktada iyi bir ön araştırma yapılması ve tehdit modelinin doğru kurulması önemlidir.</p>
+<p>Ayrıca <a href="https://puri.sm">Purism</a>, <a href="https://pine64.org">Pine64</a>, <a href="https://system76.com">System76</a> gibi bazı firmalar Intel ME içermeyen veya içerse de devre dışı bırakılmış yeni bilgisayarlar üretip satmaktadır.</p>
+<h2 id="mobil-cihazlardaki-tehlike-baseband-modem">Mobil cihazlardaki tehlike: Baseband modem<a href="#mobil-cihazlardaki-tehlike-baseband-modem" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>GSM (aslında UMTS, WCDMA, LTE, CDMA gibi tüm mobil şebekeler), doğası gereği bir takip ve gözetim sistemidir. Tüm yapı, gerektiğinde kullanıcıları kolaylıkla takip edebilmek ve izleyebilmek üzerine kurulmuştur. Ancak hayat şartlarının evrilmesi sebebiyle bugün cep telefonu kullanmamak neredeyse imkansız hale gelmiştir. Gittiğiniz bankadan, devlet kurumundan kıyafet satın aldığınız mağazaya kadar her yerde ilk sorulan soru maalesef ki cep telefonu numaranızdır. Dolayısıyla her ne kadar cep telefonu kullanmamak dijital güvenliğiniz ve mahremiyetiniz açısından en iyi çözüm olsa da, çoğu zaman bu konuda yapacak çok bir şey olmuyor. Ancak gelinen noktada mevzu bahis gözetim mekanizması etki alanını bir hayli genişletmiş durumda.</p>
+<p>Normal şartlar altında mobil cihazlarda, cihazın kendisini kontrol eden bir işlemci, buna ek olarak bir de hücresel ağı kullanmanız için baseband modem bulunmaktaydı. İsmi baseband modem olsa da, aslında bu cihaz başlı başına ayrı bir bilgisayardır ve kendine özel bileşenleri ve komut seti mevcuttur. Bu modem işlemciye diğer donanımlar gibi bir veriyolu üzerinden bağlanmaktaydı. (<em>Önemli not: Her zaman böyle olmak zorunda değildir ve bu güvende olduğunuzu göstermez</em>)</p>
+<p>Modern donanımlarda ise eskiden ayrı olan tüm bileşenler, genelde tek bir SoC (System on a Chip) yongasında toplanmış durumdadır. Telefonun işlemcisi, grafik işlemcisi, ağ kartları, depolama birimi ve baseband modem gibi tüm bileşenler tek bir yongada yer aldığında, bazı durumlarda ortak veriyollarını ve komponentleri paylaşabilmektedir. Bu da, bileşenlerin birbirilerinden izole hale gelmelerini zorlaştırmaktadır.</p>
+<p>Buradaki asıl tehlike, mülk bir yazılım ihtiva eden ve halihazırda mobil şebeke ile üreticisinin kontrolünde olan baseband yongasının, telefonunuzun (veya tabletinizin) asıl işlemcisine, belleğine ve dahi depolama birimine erişebilmesi tehlikesidir. Asıl işi yalnızca hücresel ağ bağlantısını yönetmek olan bir yonga, sizin kişisel verilerinizi okuyabilmekte ve bu yonga iki yönlü iletişim olan ve protokolü halka açık olmayan bir sisteme bağlı olduğu için teoride tüm verilerinize uzaktan erişilebilme imkanı yaratmaktadır.</p>
+<p>Baseband yongalarının yazılımları mülk olduğu için tam olarak ne yaptıkları bilinmemektedir, ayrıca hücresel ağ trafiği şifrelendiğinden ve protokoller de mülk olduğundan veri sızdırıp sızdırmadığı da tam olarak bilinemez. Bazı baseband yongalarına yapılan tersine mühendislik çalışmaları sonucunda, baseband üzerinden telefondaki veriye erişilebildiği ve bu veri üzerinde değişiklik yapılabildiği, ayrıca telefonun işlemcisi üzerinde bazı komutların çalıştırılabildiği fark edilmiştir. 2014 yılında ise Replicant projesi tarafından bazı Samsung telefonların baseband yazılımlarında telefona erişim sağlanması için oluşturulmuş bir arka kapı olduğu ortaya çıkarılmıştır.</p>
+<p>Dolayısıyla baseband, aynı Intel ME gibi, hatta daha ciddi bir şekilde güvenliğinizi ve mahremiyetinizi tehdit eder.</p>
+<p>Bu tehlikeden korunmak da yine bazı konfor alanlarınızdan feragat etmenizi gerektirmektedir. <a href="https://replicant.us">Replicant</a> projesi, bazı Android cihazlarda çalışan mülk parçalardan mümkün mertebe temizlenmiş bir Android dağıtımıdır. Replicant’ın geliştirdiği baseband sürücüsü sayesinde uygun cihazlarda gereken ölçüde baseband izolasyonu sağlayabilirsiniz. Ancak Replicant’ın pek çok dezavantajı bulunmaktadır. Örneğin, Replicant’ın çalıştığı en yeni ve güçlü cihaz Samsung Galaxy Note II’dir ve gün itibarıyla 8 yıllık bir donanımdır. Ayrıca WiFi, Bluetooth, GPS ve grafik sürücüleri mülk olduğu için bunlar çalışmamaktadır. Mevcuttaki desteklenen cihazların pek çoğunda yer alan grafik işlemci için geliştirilen özgür bir sürücü gelecek sürümde projeye dahil edilecektir. Ancak yine de, telefondaki önyükleyiciler ve baseband’ın bellenimi (firmware) hala özgür değildir.</p>
+<p>Purism firmasının geliştirdiği <a href="https://puri.sm/products/librem-5/">Librem 5</a> modelinde baseband yongası ana işlemciden izole edilmiştir ve cihaz büyük ölçüde özgür yazılımlar kullanmaktadır. Modern bir cihaz için tercih edilebilir, ancak baseband bellenimi yine de mülk bir yazılımdan oluşmaktadır.</p>
+<p>Baseband bellenimlerini özgür kılmak için sürdürülen <a href="https://osmocom.org">Osmocom</a> isimli bir proje mevcuttur. Bu proje, GSM protokolünü ve GSM cihazlarını özgür hale getirmek ve kullanılabilir kılmak için geliştirilmektedir. Mevcutta sınırlı sayıda donanım sınırlı özelliklerle desteklense de, GSM’in özgürleşmesi açısından umut vaat eden bir proje olarak anılabilir.</p>
+<p>Mobil cihazların güvenliği hakkında daha ayrıntılı bilgi için <a href="https://guvenlik.oyd.org.tr/cihaz_guvenligi/mobil_cihazlar.html">buradaki</a> bağlantıdan faydalanabilirsiniz.</p>
+<h2 id="daha-ciddi-tehlikeler-tr-069-ve-modem-router-yazılımları">Daha ciddi tehlikeler: TR-069 ve Modem Router yazılımları<a href="#daha-ciddi-tehlikeler-tr-069-ve-modem-router-yazılımları" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>Siz de hepimiz gibi, en az bir kez hizmet aldığınız ISP’yi telefonla aramış ve İnternet’e bağlanamadığınız için teknik destek istemişsinizdir. Bu konuşma esnasında karşı taraftaki temsilci size “Şimdi modeminize erişiyorum”, “Ayarlarınızı kontrol ediyorum”, “Ayarlarınızı güncelledim” gibi şeyler söyler. Bunu nasıl yapabildiğini hiç merak ettiniz mi?</p>
+<p>ISP temsilcilerinin evinizdeki modem router cihazına uzaktan erişebilmelerini sağlayan TR-069 isminde bir protokol mevcuttur. Bu protokolü destekleyen cihazlarda, ISP’lerin cihazlara erişebilmesi için bir arka kapı oluşturulur ve ISP, ilgili protokolü kullanarak cihaza erişebilir. Protokol sayesinde, cihazın yapılandırması okunabilmekte, değiştirilebilmekte, bağlı cihazlar görüntülenebilmekte, hepsinden daha kötüsü cihazın bellenimi (firmware) uzaktan güncellenebilmektedir.</p>
+<p>Cihazın üzerindeki bellenim, çok yüksek ihtimalle zaten mülk bir yazılımdır; bu yazılımın değiştirilebilme şansını uzakta bilmediğiniz bir tarafa teslim etmek casusu evinize davet etmek gibidir. Daha önce pek çok kez bu protokolle çeşitli botnetlerin ve benzeri yazılımların modem router cihazlarına yüklendiği keşfedilmiştir. Ayrıca ISP’ler (ve sistemdeki olası açıkları kullanan üçüncü şahıslar), bu protokolü kullanarak sizi ve etkinliklerinizi izleyebilir.</p>
+<p>ISP’ler tarafından sağlanan modem routerlarda genellikle TR-069 protokolü varsayılan olarak etkindir ve kapatılamaz. Bazı kullanıcılar tarafından, normalde bu protokolü kapatma fonksiyonu bulunan cihazların ilerleyen zamanda ISP tarafından uzaktan gerçekleştirilen bir güncelleme sayesinde bu özellikten mahrum bırakıldığı da bildirilmiştir.</p>
+<p>Bu noktada tavsiyemiz, ISP tarafından sağlanan modem routerları almamanız, aldıysanız da değiştirmeniz ve ilgili protokolü devre dışı bırakmanızdır. Bunu cihazınızın yönetim panelinden gerçekleştirebilirsiniz. Ancak bu noktada da cihazınızın yazılımı özgür olmadığı için aslında ne yaptığını bilemeyeceksiniz. Bu noktada güvenliğinizi artırmak için ağ cihazlarınızın yazılımlarını da değiştirmeniz gerekmektedir.
+<a href="https://openwrt.org">OpenWrt</a> projesi, ağ cihazları için geliştirilmiş özgür bir bellenim yazılımı ve işletim sistemidir. Birçok yönlendirici (router) tarafından desteklenen OpenWrt, cihazınız üzerinde optimum kontrol sahibi olmanızı sağlar. Klasik yönlendirici yazılımlarının aksine OpenWrt üzerinde Nextcloud sunucusu bile çalıştırma imkanınız vardır. Destekleyen cihazların listesine ve kurulum notlarına web sitesi üzerinden erişebilirsiniz.</p>
+<p>OpenWrt, çalıştığı pek çok donanımda özgür olmayan sürücülere ihtiyaç duyar. Bu sebepten dolayı, ilgili sürücüleri ve mülk parçaları içermeyen <a href="https://librecmc.org">LibreCMC</a> projesi ortaya çıkmıştır. LibreCMC projesi görece çok daha az sayıda cihaz tarafından desteklenmektedir, ancak özgürlük ve güvenlik açısından daha iyi bir tercih olacaktır.</p>
+<p>İçinde yaşadığımız ülkenin gerçeklerinden biri olarak maalesef ki İnternet kullanıcılarının önemli bir çoğunluğu ADSL ve VDSL kullanmaktadır, bu da doğal olarak bir modem (modulator-demodulator) ihtiyacı doğurur. Maalesef ki önerilen her iki yazılım da yalnızca yönlendiriciler içindir, Batı dünyasında DSL kullanımı görece çok düşük olduğundan ve DSL modemler her açıdan mülk sistemler olduklarından dolayı desteklenen cihazlarda modem mevcut olsa bile çok çok yüksek oranda çalışmamaktadır (<em>Desteklenen iki ya da üç cihaz da ya çok eskidir ya da piyasada yok denilecek kadar azdır.</em>). Bu sebepten hala modeme ihtiyaç duyuyor olacaksınız, bunun için de mevcuttaki modeminizi köprü (bridge) moduna alarak kullanmaya devam edebilirsiniz. Türkiye’de şu an yalnızca bazı fiber bağlantı kurulumlarında modeme ihtiyaç duyulmayabilir ve eve gelen kabloyu doğrudan WAN portuna takarak bağlantı sağlanabilir. Ancak bazı fiberoptik kurulumlarında F/O kablo evin içine çekilmekte ve burada bir SFP cihazına bağlanmaktadır. Bu konuda ayrıntılı bilgi için hizmet aldığınız ISP ile iletişime geçebilirsiniz.</p>
+<h2 id="yazıcılarınızdaki-tehlike-machine-identification-code">Yazıcılarınızdaki tehlike: Machine Identification Code<a href="#yazıcılarınızdaki-tehlike-machine-identification-code" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>Yazıcınızdan çıktı aldığınız bir kağıdın, sizi takip etmek için kullanılabileceği fikri sanki Hollywood filmlerinden bir sahne gibi duyuluyor olabilir, ancak içinde yaşadığımız dünyada artık bu da mümkün olabiliyor.</p>
+<p>Xerox ve Canon tarafından 80’li yıllarda geliştirilen Machine Identification Code (MIC), yazıcıdan çıkan her kağıda ilk bakışta gözle görülemeyen bir grup nokta çizerek daha sonrasında ilgili kağıdın kaynağının tespit edebilmesini sağlayan bir teknolojidir. Asıl amacının banknot sahteciliğine karşı bir önlem olduğu ifade edilen MIC, uzun yıllar açığa çıkmamış, ilk defa 2004 yılında  Hollanda hükumetinin bir grup kalpazanı tespit etmek için bu teknolojiyi kullanmasıyla bilinir hale gelmiştir. Aynı yıl PC World dergisi bu sistemin uzun yıllardır sahte para basan kişileri tespit etmek için kullanıldığını açıklamıştır.</p>
+<p>2005 yılında <a href="https://eff.org">Electronic Frontier Foundation</a>, birçok kişiden topladığı örnekleri bir araya getirerek MIC’nin nasıl çalıştığını çözmüş ve pek çok yazıcı üreticisi tarafından bu sistemin kullanıldığını ortaya çıkartmıştır. Sistemin devletler ve şirketler tarafından tam olarak nasıl ve ne şekilde kullanıldığı hakkında hala çok fazla bilgi yoktur, ancak 2015 yılında yine EFF tarafından, tüm büyük renkli yazıcı üreticilerinin devletlerle yazıcı çıktılarının izlenebilir olmasını sağlamak üzere gizli bir anlaşma yaptıkları iddia edilmiştir.</p>
+<p>Bu sistemde, alınan her çıktının üzerine yazıcının modeline bağlı olarak belirli bir düzende sarı renkli noktalar yerleştirilir. Bu noktalar normal şartlarda gözle görülmez, ancak çok yüksek çözünürlükte tarayıcılar sayesinde veya morötesi ışık altında görünebilir hale gelirler. <a href="https://ccc.de">CCC</a> tarafından, bırakılan kodun teoride 64 bayt veri depolayabildiği ifade edilmiştir.</p>
+<p>Günümüzde bu sistemi tam olarak hangi üreticilerin hangi modellerinde kullandığı yayınlanmamıştır.</p>
+<p>Bu sistem sayesinde, devletler ve sisteme erişimi olan tüm taraflar yazıcılardan alınan çıktıları takip edebilmektedir. Bu durum, belge sızdıran kişiler ve muhalifler için bir tehdit unsuru olabilir. Yazıcınızdan aldığınız bir çıktı, bir gün bazı kesimlerin hoşuna gitmeyebilir ve kolayca tespit edilebilirsiniz.</p>
+<p>MIC’den korunmak için, alacağınız yazıcının ilgili özelliği ihtiva edip etmediğini kontrol edebilirsiniz. <a href="https://h-node.org">H-Node</a> isimli web sitesi, özgür yazılımlarla çalışan donanımların listelendiği bir dizindir. Burada yazıcılar bölümündeki her yazıcı için ilgili teknolojiyi ihtiva edip etmediği bilgisine yer verilmiştir.</p>
+<p>Ayrıca 2018 yılında Dresden Teknik Üniversitesi’ndeki bir grup bilim insanı tarafından geliştirilen <a href="https://github.com/dfd-tud/deda">deda</a> aracı, yazıcınızdan çıkan kağıtlardaki MIC verisini anonimleştirebilmekte ve bu yolla güvenliğinizi ve mahremiyetinizi sağlayabilmektedir.</p>
+<h2 id="evinizdeki-tehlike-akıllı-ev-donanımları-ve-iot-cihazları">Evinizdeki tehlike: “Akıllı ev” donanımları ve IoT cihazları<a href="#evinizdeki-tehlike-akıllı-ev-donanımları-ve-iot-cihazları" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>Özellikle 2010’lardan itibaren evlerde “akıllı” cihazların kullanımı çok ciddi yaygınlık kazandı. Üç aşağı beş yukarı birçok evde artık “akıllı süpürge”, “akıllı buzdolabı”, “akıllı çamaşır makinesi”, “akıllı lamba”, “akıllı televizyon” gibi donanımlar bulunuyor. Bu donanımlar İnternet’e bağlanarak uzaktan kontrol edilebilme ve belirli işlemleri otomatik olarak gerçekleştirebilme yeteneğine sahipler. Bunun haricinde bir de “sanal asistan” diye ifade edilen donanımlar mevcut.</p>
+<p>Bu durum pek çok sorunu da beraberinde getiriyor. Bahsi geçen donanımların neredeyse hepsi İnternet’e bağlanarak çeşitli verileri üretici firmalarının sunucularına göndermektedir. Örneğin akıllı süpürgeniz, evinizin şemasını çıkartarak bunu sunuculara yükler. Akıllı lambanız açılış-kapanış saatlerini, akıllı çamaşır makineniz çamaşır yıkama sıklığınızı ve ayarladığınız programları, akıllı buzdolabınız kapağını açıp kapama durumunuzu sunuculara gönderir. Tabi bunların hepsi tahminden ibaret, çünkü tüm bu donanımlarda çalışan yazılımlar mülk yazılımlar olduğu için yine aslında ne yaptıklarını bilemeyiz. Elbette yalnızca tahminler değil, ortaya çıkan vakalar da benzer durumlara işaret etmektedir.</p>
+<p>Örneğin Princeton Üniversitesi’nin yaptığı bir araştırma, Amazon Fire TV ve Roku cihazlarının kullanıcıların izleme alışkanlıklarıyla ilgili veri topladığını ve bunu incelediğini ortaya koymuştur. 2019 yılında Orvibo formasının ürettiği akıllı priz, güvenlik kamerası, ampul, termostat, pencere, kapı kilidi gibi donanımların bağlandığı sunucunun veritabanının şifrelenmediği, hatta bir parolaya bile ihtiyaç duymadan erişilebildiği ortaya çıkmış, bu veritabanı yüzünden kullanıcıların kişisel verilerine ek olarak konumları ve cihazları kullanım alışkanlıkları da sızdırılmıştır. 2017 yılında Samsung akıllı televizyonların kamera ve mikrofonlarının CIA ve MI6 tarafından dinleme aracı olarak kullanıldığını gösteren belgeler WikiLeaks tarafından sızdırılmıştır. Google Nest, Amazon Alexa gibi “akıllı asistan” donanımlarının ortamdaki sesleri dinlediği ve raporladığı üzerine pek çok iddia mevcuttur.</p>
+<p>Başka bir sorun ise, ilgili donanımların güvenliklerinin zayıflığıdır. Bu durum, hangi cihazı kullandığınızı bilen veya deneme yöntemini kullanan üçüncü bir kişinin cihazlarınıza dışarıdan erişebilmesini beraberinde getirir. Dahası, varsayılan parolaları zayıf olan ve değiştirilmeyen donanımlar kullanılarak pek çok botnet oluşturulmuş ve çeşitli DDoS saldırıları yapılmıştır. 21 Ekim 2016’da büyük DNS sunucularını hedef alan DDoS saldırısı sonucu saatlerce DNS sunucuları çalışmamış, bu durum da web sitelerinin çok önemli bir kısmını erişilemez hale getirmiştir. Bu DDoS saldırısı, parolası olmayan veya varsayılan parolası değiştirilmemiş cihazlar kullanılarak gerçekleştirilmiştir.</p>
+<p>Ek olarak, özellikle eski cihazların bellenim (firmware) yazılımlarının eskimesi ve güncellenmemesi, bu cihazlarda fark edilebilecek güvenlik açıklarının kapatılamamasına ve cihazlarınızın açık hedef olmasına sebebiyet verecektir.</p>
+<p>Bu noktada tavsiyemiz, özellikle ihtiyaç duymuyorsanız bu tarz cihazları kullanmamanız, mümkünse kendiniz üretmeniz (Arduino gibi donanımlar sayesinde), kullanıyorsanız da varsayılan parolalarını değiştirerek ve <a href="https://openhab.org">openHAB</a> gibi özgür bir yazılım kullanarak kullanmanız yönündedir.</p>
+<h2 id="otomobilinizdeki-tehlikeler">Otomobilinizdeki tehlikeler<a href="#otomobilinizdeki-tehlikeler" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>Yeni nesil otomobiller, pek çok yazılım kullanmaktadır. Örneğin, eskiden karbüratörün yaptığı işlevi artık enjeksiyon sistemine bağlı ECU (Engine Control Unit) gerçekleştirir, egzozunuzdan çıkan gazları ölçmek için lambda sensörü vardır, yağmur damlası camınıza düşer düşmez yağmur sensörü silecekleri devreye sokar, bunun gibi sensörler belirli yazılımlarla kontrol edilir. Ancak aracınızı kontrol eden yazılımlar arasında bundan daha fazlası da vardır.</p>
+<p>Pek çok araç uzaktan izlenebilmekte ve çeşitli işlevleri kısıtlanabilmektedir. Bunun gerçekleştirilebilmesi için de aracın yazılımına bir arka kapı yerleştirilir. Bu durum pek çok güvenlik ve mahremiyet sorununu da beraberinde getirmektedir.</p>
+<p>2020 yılının Ağustos ayında, yeni Toyota araçlarının sürücü davranışlarını özel sigorta teklifleri oluşturabilmek için Amazon’a göndereceği ortaya çıkmıştır. Tesla araçların, kullanıcıların pek çok hassas verisini depoladığı ve bunların araç üzerinde şifrelenmemiş bir şekilde tutulduğu, hurdalıkta bulunan kaza yapmış bir Tesla araçtan ilgili verilerin çıkartılmasıyla tespit edilmiştir.</p>
+<p>Bunların haricinde 100 milyondan fazla Volkswagen aracın kapılarının uzaktan kolaylıkla açılabilmesi, BMW araçların uzaktan kontrol edilebilmesi, General Motors’un araçlarındaki bir arka kapı sayesinde ilgili araçların kilitlenebilmesi gibi sayısız örnek mevcuttur.</p>
+<p>En korkuncu ise, Jeep Cheroke marka bir otomobilin tüm kontrollerinin bir grup cracker tarafından ele geçirilebilmesi ve bu sayede araca bilerek kaza yaptırılabilmesidir.</p>
+<p>Tüm bu örnekler, aslında yeni nesil otomobillerdeki yazılımların ne kadar güvensiz olduğunu açıkça ortaya koymaktadır.</p>
+<p>Konu hakkında bir derlemeye <a href="https://www.gnu.org/proprietary/malware-cars.html">buradaki</a> bağlantıdan ulaşabilirsiniz.</p>
+<p>Bu noktada aslında önemli ölçüde yazılımlara dayanmayan otomobiller kullanmak dışında çok fazla çözüm maalesef ki yok. Bu sorun, ancak otomobil üreticilerine örgütlü bir biçimde güvenli ve özgür yazılım çağrısında bulunarak veya bu cihazları hackleyip Libreboot gibi alternatif yazılımlar geliştirerek çözülebilir görünüyor.</p>
+<h2 id="son-söz">Son söz<a href="#son-söz" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>Mevcut atmosfer, halihazırda var olan özgürlük ve mahremiyet ihtiyacının ilerleyen süreçte katlanarak yükseleceğini hissettiriyor. Özellikle IoT cihazlarının yaygınlaşması ve her şeyin bir yazılımdan azade olmadığı bir noktaya doğru evrilmemiz bu durumun en net göstergelerinden biri halinde. Bu noktada önemli olan, mahremiyetin ve özgürlüğün asli birer mesele olduğunu fark etmek ve bunlardan vazgeçtiğimiz her noktada aslında herkesin mahremiyetine ve özgürlüğüne ket vurduğumuzun bilincine varmaktır. Özgürlük vazgeçebilmek ve aksini söyleyebilmektir. Dijitalleşen dünyanın getirdiği konfor alanlarından vazgeçmemek için özgürlüğümüzden ve mahremiyetimizden vazgeçmek, nihayetinde hepimizin, özellikle de kendimizin zararına olacaktır.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>Advanced Management Technology – Gelişmiş Yönetim Teknolojisi <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>Digital Rights/Restrictions Management – Dijital Haklar/Kısıtlamalar Yönetimi <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+      </div></div>
+
+  
+    
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h">Başka yazılar</span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        <span class="button previous">
+            <a href="https://ooguz.net/posts/yayinlanmayan-roportajlar-internet-hakki/">
+                <span class="button__icon">←</span>
+                <span class="button__text">Yayınlanmayan röportajlar #0: İnternet hakkı</span>
+            </a>
+        </span>
+        
+        
+        <span class="button next">
+            <a href="https://ooguz.net/posts/drm-tehlikesi/">
+                <span class="button__text">DRM tehlikesi</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+    
+
+  
+</article>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright copyright--user">
+        <span>© 2022 Özcan Oğuz</span>
+    
+        <span>:: aksi belirtilmedikçe CC BY-ND 4.0</span>
+      </div>
+  </div>
+</footer>
+
+
+
+
+
+
+
+<script type="text/javascript" src="/bundle.min.js"></script>
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>
