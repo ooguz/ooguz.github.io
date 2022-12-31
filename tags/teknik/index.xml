@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>teknik on Özcan Oğuz</title>
-    <link>https://ooguz.net/tags/teknik/</link>
+    <link>https://ozcanoguz.com.tr/tags/teknik/</link>
     <description>Recent content in teknik on Özcan Oğuz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
     <copyright>Özcan Oğuz</copyright>
-    <lastBuildDate>Sat, 31 Dec 2022 23:04:03 +0300</lastBuildDate><atom:link href="https://ooguz.net/tags/teknik/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 23:04:03 +0300</lastBuildDate><atom:link href="https://ozcanoguz.com.tr/tags/teknik/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yayınlanmayan röportajlar #0: İnternet hakkı</title>
-      <link>https://ooguz.net/posts/yayinlanmayan-roportajlar-internet-hakki/</link>
+      <link>https://ozcanoguz.com.tr/posts/yayinlanmayan-roportajlar-internet-hakki/</link>
       <pubDate>Sat, 31 Dec 2022 23:04:03 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/yayinlanmayan-roportajlar-internet-hakki/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/yayinlanmayan-roportajlar-internet-hakki/</guid>
       <description>2022 Kasım&amp;rsquo;ında bir ulusal gazete tarafından talep edilen ancak bilmediğim bir sebepten ötürü yayınlanmasından vazgeçilen İnternet hakkı üzerine verdiğim mülakatı kendim yayınlamaya karar verdim.</description>
       <content>&lt;p&gt;&lt;em&gt;2022 Kasım&amp;rsquo;ında bir ulusal gazete tarafından talep edilen ancak bilmediğim bir sebepten ötürü yayınlanmasından vazgeçilen İnternet hakkı üzerine verdiğim mülakatı kendim yayınlamaya karar verdim. Keyifli okumalar.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -57,10 +57,10 @@
     
     <item>
       <title>Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet</title>
-      <link>https://ooguz.net/posts/donanimlarinizdaki-tehlikeler/</link>
+      <link>https://ozcanoguz.com.tr/posts/donanimlarinizdaki-tehlikeler/</link>
       <pubDate>Sat, 14 Nov 2020 14:46:32 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/donanimlarinizdaki-tehlikeler/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/donanimlarinizdaki-tehlikeler/</guid>
       <description>Bu yazı, dijitalguvenlik.org adresinde yayınlanmıştır.
 Dijital güvenlik ve mahremiyet üzerine biraz eğildiğimizde, genellikle karşımıza yazılımlar ve yazılım güvenliği konuları çıkıyor. Kullandığımız yazılımlar, güvenliğimiz ve mahremiyetimiz için son derece önemli, ancak konu sadece bununla sınırlı değil.
 Günlük hayatımızda kullandığımız çevremizdeki pek çok donanım da aslında güvenliğimiz için birer tehdit oluşturabilmektedir. Kullandığımız bilgisayardan bindiğimiz otomobile kadar pek çok donanım, ciddi tehditler oluşturabilecek özgürlük, güvenlik ve mahremiyet sorunları içeriyor. Bu yazıda bu sorunların neler olabileceğini ve bu sorunlar için çeşitli çözüm önerilerini derledik.</description>
@@ -143,10 +143,10 @@ Peki Intel ME’den nasıl kurtulabilirim?&lt;/p&gt;
     
     <item>
       <title>DRM tehlikesi</title>
-      <link>https://ooguz.net/posts/drm-tehlikesi/</link>
+      <link>https://ozcanoguz.com.tr/posts/drm-tehlikesi/</link>
       <pubDate>Fri, 27 Mar 2020 00:38:03 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/drm-tehlikesi/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/drm-tehlikesi/</guid>
       <description>Favori kitabevinizden satın aldığınız bir kitabı, yalnızca evinizin salonunda bulunmak zorunda olan, Kardeşler Mobilya&amp;rsquo;dan alınma bir koltuğa oturarak okuyabildiğinizi ve üzerine de Portakal Kalem üretimi siyah renk bir kalemle not alabildiğinizi hayal edin. Bunun haricinde yapacağınız her türlü okumanın da yasak olduğunu. Bu kitabı sadece Gomore marka bir kitaplığa koyabildiğinizi, hatta bir sabah kalktığınızda kitabın kitaplığınızdan &amp;ldquo;sözleşmesinin bittiği&amp;rdquo; gerekçesiyle yok olduğunu. Saçma gibi geliyor değil mi? Ama artık bu bir gerçek, DRM yüzünden.</description>
       <content>&lt;p&gt;&lt;em&gt;Bu yazı, Özgür Yazılım Derneği&amp;rsquo;nin web sitesinde yayınlanmıştır.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Favori kitabevinizden satın aldığınız bir kitabı, yalnızca evinizin salonunda bulunmak zorunda olan, Kardeşler Mobilya&amp;rsquo;dan alınma bir koltuğa oturarak okuyabildiğinizi ve üzerine de Portakal Kalem üretimi siyah renk bir kalemle not alabildiğinizi hayal edin. Bunun haricinde yapacağınız her türlü okumanın da yasak olduğunu. Bu kitabı sadece Gomore marka bir kitaplığa koyabildiğinizi, hatta bir sabah kalktığınızda kitabın kitaplığınızdan &amp;ldquo;sözleşmesinin bittiği&amp;rdquo; gerekçesiyle yok olduğunu. Saçma gibi geliyor değil mi? Ama artık bu bir gerçek, DRM yüzünden.&lt;/p&gt;

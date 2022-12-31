@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Özcan Oğuz</title>
-    <link>https://ooguz.net/</link>
+    <link>https://ozcanoguz.com.tr/</link>
     <description>Recent content on Özcan Oğuz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
     <copyright>Özcan Oğuz</copyright>
-    <lastBuildDate>Sat, 31 Dec 2022 23:04:03 +0300</lastBuildDate><atom:link href="https://ooguz.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 23:04:03 +0300</lastBuildDate><atom:link href="https://ozcanoguz.com.tr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yayınlanmayan röportajlar #0: İnternet hakkı</title>
-      <link>https://ooguz.net/posts/yayinlanmayan-roportajlar-internet-hakki/</link>
+      <link>https://ozcanoguz.com.tr/posts/yayinlanmayan-roportajlar-internet-hakki/</link>
       <pubDate>Sat, 31 Dec 2022 23:04:03 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/yayinlanmayan-roportajlar-internet-hakki/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/yayinlanmayan-roportajlar-internet-hakki/</guid>
       <description>2022 Kasım&amp;rsquo;ında bir ulusal gazete tarafından talep edilen ancak bilmediğim bir sebepten ötürü yayınlanmasından vazgeçilen İnternet hakkı üzerine verdiğim mülakatı kendim yayınlamaya karar verdim.</description>
       <content>&lt;p&gt;&lt;em&gt;2022 Kasım&amp;rsquo;ında bir ulusal gazete tarafından talep edilen ancak bilmediğim bir sebepten ötürü yayınlanmasından vazgeçilen İnternet hakkı üzerine verdiğim mülakatı kendim yayınlamaya karar verdim. Keyifli okumalar.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -57,10 +57,10 @@
     
     <item>
       <title>Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet</title>
-      <link>https://ooguz.net/posts/donanimlarinizdaki-tehlikeler/</link>
+      <link>https://ozcanoguz.com.tr/posts/donanimlarinizdaki-tehlikeler/</link>
       <pubDate>Sat, 14 Nov 2020 14:46:32 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/donanimlarinizdaki-tehlikeler/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/donanimlarinizdaki-tehlikeler/</guid>
       <description>Bu yazı, dijitalguvenlik.org adresinde yayınlanmıştır.
 Dijital güvenlik ve mahremiyet üzerine biraz eğildiğimizde, genellikle karşımıza yazılımlar ve yazılım güvenliği konuları çıkıyor. Kullandığımız yazılımlar, güvenliğimiz ve mahremiyetimiz için son derece önemli, ancak konu sadece bununla sınırlı değil.
 Günlük hayatımızda kullandığımız çevremizdeki pek çok donanım da aslında güvenliğimiz için birer tehdit oluşturabilmektedir. Kullandığımız bilgisayardan bindiğimiz otomobile kadar pek çok donanım, ciddi tehditler oluşturabilecek özgürlük, güvenlik ve mahremiyet sorunları içeriyor. Bu yazıda bu sorunların neler olabileceğini ve bu sorunlar için çeşitli çözüm önerilerini derledik.</description>
@@ -143,10 +143,10 @@ Peki Intel ME’den nasıl kurtulabilirim?&lt;/p&gt;
     
     <item>
       <title>DRM tehlikesi</title>
-      <link>https://ooguz.net/posts/drm-tehlikesi/</link>
+      <link>https://ozcanoguz.com.tr/posts/drm-tehlikesi/</link>
       <pubDate>Fri, 27 Mar 2020 00:38:03 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/drm-tehlikesi/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/drm-tehlikesi/</guid>
       <description>Favori kitabevinizden satın aldığınız bir kitabı, yalnızca evinizin salonunda bulunmak zorunda olan, Kardeşler Mobilya&amp;rsquo;dan alınma bir koltuğa oturarak okuyabildiğinizi ve üzerine de Portakal Kalem üretimi siyah renk bir kalemle not alabildiğinizi hayal edin. Bunun haricinde yapacağınız her türlü okumanın da yasak olduğunu. Bu kitabı sadece Gomore marka bir kitaplığa koyabildiğinizi, hatta bir sabah kalktığınızda kitabın kitaplığınızdan &amp;ldquo;sözleşmesinin bittiği&amp;rdquo; gerekçesiyle yok olduğunu. Saçma gibi geliyor değil mi? Ama artık bu bir gerçek, DRM yüzünden.</description>
       <content>&lt;p&gt;&lt;em&gt;Bu yazı, Özgür Yazılım Derneği&amp;rsquo;nin web sitesinde yayınlanmıştır.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Favori kitabevinizden satın aldığınız bir kitabı, yalnızca evinizin salonunda bulunmak zorunda olan, Kardeşler Mobilya&amp;rsquo;dan alınma bir koltuğa oturarak okuyabildiğinizi ve üzerine de Portakal Kalem üretimi siyah renk bir kalemle not alabildiğinizi hayal edin. Bunun haricinde yapacağınız her türlü okumanın da yasak olduğunu. Bu kitabı sadece Gomore marka bir kitaplığa koyabildiğinizi, hatta bir sabah kalktığınızda kitabın kitaplığınızdan &amp;ldquo;sözleşmesinin bittiği&amp;rdquo; gerekçesiyle yok olduğunu. Saçma gibi geliyor değil mi? Ama artık bu bir gerçek, DRM yüzünden.&lt;/p&gt;
@@ -172,10 +172,10 @@ Peki Intel ME’den nasıl kurtulabilirim?&lt;/p&gt;
     
     <item>
       <title>portfolyo</title>
-      <link>https://ooguz.net/portfolio/</link>
+      <link>https://ozcanoguz.com.tr/portfolio/</link>
       <pubDate>Sun, 28 Oct 2018 23:04:22 +0300</pubDate>
       
-      <guid>https://ooguz.net/portfolio/</guid>
+      <guid>https://ozcanoguz.com.tr/portfolio/</guid>
       <description>yayınlar  Özgür Yazılım Derneği Güvenlik Rehberi Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet (DijitalGüvenlik.org) Zarola: Kolay hatırlanabilir, güvenli parolalar oluşturmanın en iyi yolu DRM tehlikesi (Özgür Yazılım Derneği) Neden açık kaynak değil özgür yazılım? (Özgür Yazılım Derneği) #SosyalMedyamaDokunma bildirisi (Özgür Yazılım Derneği) Neden şifre değil parola? (Özgür Yazılım Derneği) Çocuklar için Raspberry Pi ve Python, İlk üç bölüm  konuşmalar  Living liberated: Zero-to-hero (LibrePlanet 2022) Freeing networks where we need freedom most (LibrePlanet 2021) Özgürlük Çelişkisi: Özgür Yazılım Kullanmamak, Özgür Yazılım Üretmekle Çelişir mi?</description>
       <content>&lt;h2 id=&#34;yayınlar&#34;&gt;yayınlar&lt;/h2&gt;
 &lt;ul&gt;
@@ -196,8 +196,8 @@ Peki Intel ME’den nasıl kurtulabilirim?&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/libreplanet.pdf&#34;&gt;In memory of Mustafa Akgül: Free software and political movements in Turkey (LibrePlanet 2020)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/libreplanet.pdf&#34;&gt;Free software for minorities of Turkey (LibrePlanet 2020, Boston, US)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://events.ccc.de/congress/2019/wiki/index.php/Session:Free_software_for_minorities_of_Turkey_with_their_own_languages&#34;&gt;Free software for minorities of Turkey (36C3, Leipzig, DE)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ooguz.net/ab19_sunu.pdf&#34;&gt;Gayrimerkezi bir dünyanın arifesinde iki yeni adım: GNU MediaGoblin ve GNU Taler (Akademik Bilişim 2019)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ooguz.net/oyot_sunu.pdf&#34;&gt;Özgür yazılım, özgür toplum (Yazılım Özgürlüğü Günü 2018)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ozcanoguz.com.tr/ab19_sunu.pdf&#34;&gt;Gayrimerkezi bir dünyanın arifesinde iki yeni adım: GNU MediaGoblin ve GNU Taler (Akademik Bilişim 2019)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ozcanoguz.com.tr/oyot_sunu.pdf&#34;&gt;Özgür yazılım, özgür toplum (Yazılım Özgürlüğü Günü 2018)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;röportajlar&#34;&gt;röportajlar&lt;/h2&gt;
 &lt;ul&gt;
@@ -246,10 +246,10 @@ Peki Intel ME’den nasıl kurtulabilirim?&lt;/p&gt;
     
     <item>
       <title>hakkımda</title>
-      <link>https://ooguz.net/about/</link>
+      <link>https://ozcanoguz.com.tr/about/</link>
       <pubDate>Sun, 28 Oct 2018 22:26:52 +0300</pubDate>
       
-      <guid>https://ooguz.net/about/</guid>
+      <guid>https://ozcanoguz.com.tr/about/</guid>
       <description>Bilgisayarla daha çok küçükken babamın bit pazarından getirdiği bir i486 DX2 makine ile tanıştım, sonra da gerisi geldi: Kadıköy Anadolu, Boğaziçi Üniversitesi, Hackerspace Istanbul, Özgür Yazılım Derneği, Özgür Yazılım Kampları&amp;hellip; Buraya yeni bir şeyler yazmam gerekiyor sanırım.
 İletişim    Kanal Adres     E-posta ozcan {güzela} oyd.org.tr   GnuPG d854 d9d8 5cb4 9107 04bd 9c5b 2d33 e2bd 3d97 5818   XMPP/OMEMO oo {güzela} 5222.de   Mektup P.</description>
       <content>&lt;p&gt;Bilgisayarla daha çok küçükken babamın bit pazarından getirdiği bir i486 DX2 makine ile tanıştım, sonra da gerisi geldi: Kadıköy Anadolu, Boğaziçi Üniversitesi, Hackerspace Istanbul, Özgür Yazılım Derneği, Özgür Yazılım Kampları&amp;hellip; Buraya yeni bir şeyler yazmam gerekiyor sanırım.&lt;/p&gt;
