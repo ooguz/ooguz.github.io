@@ -2,9 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Özcan Oğuz</title>
-    <link>https://ozcanoguz.com.tr/categories/</link>
+    <link>https://ooguz.net/categories/</link>
     <description>Recent content in Categories on Özcan Oğuz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>tr-tr</language><atom:link href="https://ozcanoguz.com.tr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>tr-tr</language>
+    <copyright>Özcan Oğuz</copyright>
+    <lastBuildDate>Sat, 14 Nov 2020 14:46:32 +0300</lastBuildDate><atom:link href="https://ooguz.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>donanım özgürlüğü</title>
+      <link>https://ooguz.net/categories/donan%C4%B1m-%C3%B6zg%C3%BCrl%C3%BC%C4%9F%C3%BC/</link>
+      <pubDate>Sat, 14 Nov 2020 14:46:32 +0300</pubDate>
+      
+      <guid>https://ooguz.net/categories/donan%C4%B1m-%C3%B6zg%C3%BCrl%C3%BC%C4%9F%C3%BC/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>mahremiyet</title>
+      <link>https://ooguz.net/categories/mahremiyet/</link>
+      <pubDate>Sat, 14 Nov 2020 14:46:32 +0300</pubDate>
+      
+      <guid>https://ooguz.net/categories/mahremiyet/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>özgür yazılım</title>
+      <link>https://ooguz.net/categories/%C3%B6zg%C3%BCr-yaz%C4%B1l%C4%B1m/</link>
+      <pubDate>Sat, 14 Nov 2020 14:46:32 +0300</pubDate>
+      
+      <guid>https://ooguz.net/categories/%C3%B6zg%C3%BCr-yaz%C4%B1l%C4%B1m/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
   </channel>
 </rss>
