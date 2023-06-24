@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Özcan Oğuz</title>
-    <link>https://ooguz.net/</link>
+    <link>https://ozcanoguz.com.tr/</link>
     <description>Recent content on Özcan Oğuz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
     <copyright>Özcan Oğuz</copyright>
-    <lastBuildDate>Sat, 31 Dec 2022 23:04:03 +0300</lastBuildDate><atom:link href="https://ooguz.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 23:04:03 +0300</lastBuildDate><atom:link href="https://ozcanoguz.com.tr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yayınlanmayan röportajlar #0: İnternet hakkı</title>
-      <link>https://ooguz.net/posts/yayinlanmayan-roportajlar-internet-hakki/</link>
+      <link>https://ozcanoguz.com.tr/posts/yayinlanmayan-roportajlar-internet-hakki/</link>
       <pubDate>Sat, 31 Dec 2022 23:04:03 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/yayinlanmayan-roportajlar-internet-hakki/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/yayinlanmayan-roportajlar-internet-hakki/</guid>
       <description>2022 Kasım&amp;rsquo;ında bir ulusal gazete tarafından talep edilen ancak bilmediğim bir sebepten ötürü yayınlanmasından vazgeçilen İnternet hakkı üzerine verdiğim mülakatı kendim yayınlamaya karar verdim.</description>
       <content>&lt;p&gt;&lt;em&gt;2022 Kasım&amp;rsquo;ında bir ulusal gazete tarafından talep edilen ancak bilmediğim bir sebepten ötürü yayınlanmasından vazgeçilen İnternet hakkı üzerine verdiğim mülakatı kendim yayınlamaya karar verdim. Keyifli okumalar.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -57,10 +57,10 @@
     
     <item>
       <title>Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet</title>
-      <link>https://ooguz.net/posts/donanimlarinizdaki-tehlikeler/</link>
+      <link>https://ozcanoguz.com.tr/posts/donanimlarinizdaki-tehlikeler/</link>
       <pubDate>Sat, 14 Nov 2020 14:46:32 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/donanimlarinizdaki-tehlikeler/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/donanimlarinizdaki-tehlikeler/</guid>
       <description>Bu yazı, dijitalguvenlik.org adresinde yayınlanmıştır.
 Dijital güvenlik ve mahremiyet üzerine biraz eğildiğimizde, genellikle karşımıza yazılımlar ve yazılım güvenliği konuları çıkıyor. Kullandığımız yazılımlar, güvenliğimiz ve mahremiyetimiz için son derece önemli, ancak konu sadece bununla sınırlı değil.
 Günlük hayatımızda kullandığımız çevremizdeki pek çok donanım da aslında güvenliğimiz için birer tehdit oluşturabilmektedir. Kullandığımız bilgisayardan bindiğimiz otomobile kadar pek çok donanım, ciddi tehditler oluşturabilecek özgürlük, güvenlik ve mahremiyet sorunları içeriyor. Bu yazıda bu sorunların neler olabileceğini ve bu sorunlar için çeşitli çözüm önerilerini derledik.</description>
@@ -127,26 +127,26 @@ Peki Intel ME’den nasıl kurtulabilirim?&lt;/p&gt;
 &lt;p&gt;Bu noktada aslında önemli ölçüde yazılımlara dayanmayan otomobiller kullanmak dışında çok fazla çözüm maalesef ki yok. Bu sorun, ancak otomobil üreticilerine örgütlü bir biçimde güvenli ve özgür yazılım çağrısında bulunarak veya bu cihazları hackleyip Libreboot gibi alternatif yazılımlar geliştirerek çözülebilir görünüyor.&lt;/p&gt;
 &lt;h2 id=&#34;son-söz&#34;&gt;Son söz&lt;/h2&gt;
 &lt;p&gt;Mevcut atmosfer, halihazırda var olan özgürlük ve mahremiyet ihtiyacının ilerleyen süreçte katlanarak yükseleceğini hissettiriyor. Özellikle IoT cihazlarının yaygınlaşması ve her şeyin bir yazılımdan azade olmadığı bir noktaya doğru evrilmemiz bu durumun en net göstergelerinden biri halinde. Bu noktada önemli olan, mahremiyetin ve özgürlüğün asli birer mesele olduğunu fark etmek ve bunlardan vazgeçtiğimiz her noktada aslında herkesin mahremiyetine ve özgürlüğüne ket vurduğumuzun bilincine varmaktır. Özgürlük vazgeçebilmek ve aksini söyleyebilmektir. Dijitalleşen dünyanın getirdiği konfor alanlarından vazgeçmemek için özgürlüğümüzden ve mahremiyetimizden vazgeçmek, nihayetinde hepimizin, özellikle de kendimizin zararına olacaktır.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Advanced Management Technology – Gelişmiş Yönetim Teknolojisi &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Advanced Management Technology – Gelişmiş Yönetim Teknolojisi&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Digital Rights/Restrictions Management – Dijital Haklar/Kısıtlamalar Yönetimi &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Digital Rights/Restrictions Management – Dijital Haklar/Kısıtlamalar Yönetimi&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </content>
     </item>
     
     <item>
       <title>DRM tehlikesi</title>
-      <link>https://ooguz.net/posts/drm-tehlikesi/</link>
+      <link>https://ozcanoguz.com.tr/posts/drm-tehlikesi/</link>
       <pubDate>Fri, 27 Mar 2020 00:38:03 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/drm-tehlikesi/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/drm-tehlikesi/</guid>
       <description>Favori kitabevinizden satın aldığınız bir kitabı, yalnızca evinizin salonunda bulunmak zorunda olan, Kardeşler Mobilya&amp;rsquo;dan alınma bir koltuğa oturarak okuyabildiğinizi ve üzerine de Portakal Kalem üretimi siyah renk bir kalemle not alabildiğinizi hayal edin. Bunun haricinde yapacağınız her türlü okumanın da yasak olduğunu. Bu kitabı sadece Gomore marka bir kitaplığa koyabildiğinizi, hatta bir sabah kalktığınızda kitabın kitaplığınızdan &amp;ldquo;sözleşmesinin bittiği&amp;rdquo; gerekçesiyle yok olduğunu. Saçma gibi geliyor değil mi? Ama artık bu bir gerçek, DRM yüzünden.</description>
       <content>&lt;p&gt;&lt;em&gt;Bu yazı, Özgür Yazılım Derneği&amp;rsquo;nin web sitesinde yayınlanmıştır.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Favori kitabevinizden satın aldığınız bir kitabı, yalnızca evinizin salonunda bulunmak zorunda olan, Kardeşler Mobilya&amp;rsquo;dan alınma bir koltuğa oturarak okuyabildiğinizi ve üzerine de Portakal Kalem üretimi siyah renk bir kalemle not alabildiğinizi hayal edin. Bunun haricinde yapacağınız her türlü okumanın da yasak olduğunu. Bu kitabı sadece Gomore marka bir kitaplığa koyabildiğinizi, hatta bir sabah kalktığınızda kitabın kitaplığınızdan &amp;ldquo;sözleşmesinin bittiği&amp;rdquo; gerekçesiyle yok olduğunu. Saçma gibi geliyor değil mi? Ama artık bu bir gerçek, DRM yüzünden.&lt;/p&gt;
@@ -159,7 +159,7 @@ Peki Intel ME’den nasıl kurtulabilirim?&lt;/p&gt;
 &lt;p&gt;Çok ironik bir biçimde, Amazon kullanıcıların &amp;ldquo;satın aldıklarını düşündükleri&amp;rdquo; George Orwell&amp;rsquo;in 1984 kitabını, kitabın yayıncısıyla olan sözleşmesinin bittiği gerekçesiyle uzaktan silmiştir [5]. Bu hissi anlamak için şöyle hayal edin, bir gece uyumadan önce 1984&amp;rsquo;ü okuyorsunuz, kitaplığınıza koyuyorsunuz, sabah kalktığınızda bulamıyorsunuz. Çiftartı iyi!&lt;/p&gt;
 &lt;p&gt;Hatta DRM marifetiyle özgürlüğümüzü ortadan kaldırmaya yemin etmiş bazı firmalar, kitaplarının &amp;ldquo;lisans sözleşmelerine&amp;rdquo; kitabı yüksek sesle okumanızın yasak olduğuna dair bir madde eklemekten bile utanmamışlardır.&lt;/p&gt;
 &lt;p&gt;Son tahlilde, DRM özgürlüğümüze düşman bir yapıdır, tasarımı gereği kusurludur [6]. Ancak elbette DRM olmadan dijital dünyadan faydalanmak da mümkündür, eskiden olduğu gibi fiziksel medyalar kullanarak, kullanıcılarını DRM&amp;rsquo;e zorlamayan hizmetleri tercih ederek [7], mümkün olmayan durumlarda ise bilgiyi ve veriyi &amp;ldquo;özgürleştirerek&amp;rdquo; DRM&amp;rsquo;siz yaşayabilir ve özgürlüğünüzü koruyabilirsiniz.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Referanslar:  
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Referanslar:  
 1: u.oyd.org.tr/UI9  
 2: 451°F  
 3: u.oyd.org.tr/JEy  
@@ -171,88 +171,14 @@ Peki Intel ME’den nasıl kurtulabilirim?&lt;/p&gt;
     </item>
     
     <item>
-      <title>portfolyo</title>
-      <link>https://ooguz.net/portfolio/</link>
-      <pubDate>Sun, 28 Oct 2018 23:04:22 +0300</pubDate>
-      
-      <guid>https://ooguz.net/portfolio/</guid>
-      <description>yayınlar  Özgür Yazılım Derneği Güvenlik Rehberi Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet (DijitalGüvenlik.org) Zarola: Kolay hatırlanabilir, güvenli parolalar oluşturmanın en iyi yolu DRM tehlikesi (Özgür Yazılım Derneği) Neden açık kaynak değil özgür yazılım? (Özgür Yazılım Derneği) #SosyalMedyamaDokunma bildirisi (Özgür Yazılım Derneği) Neden şifre değil parola? (Özgür Yazılım Derneği) Çocuklar için Raspberry Pi ve Python, İlk üç bölüm  konuşmalar  Living liberated: Zero-to-hero (LibrePlanet 2022) Freeing networks where we need freedom most (LibrePlanet 2021) Özgürlük Çelişkisi: Özgür Yazılım Kullanmamak, Özgür Yazılım Üretmekle Çelişir mi?</description>
-      <content>&lt;h2 id=&#34;yayınlar&#34;&gt;yayınlar&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://guvenlik.oyd.org.tr&#34;&gt;Özgür Yazılım Derneği Güvenlik Rehberi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20201101124127/https://www.dijitalguvenlik.org/makale/donanimlarinizdaki-tehlikeler-guvenlik-ve-mahremiyet/&#34;&gt;Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet (DijitalGüvenlik.org)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://zarola.oyd.org.tr/zarola_kitap.pdf&#34;&gt;Zarola: Kolay hatırlanabilir, güvenli parolalar oluşturmanın en iyi yolu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/yazilar/drm/&#34;&gt;DRM tehlikesi (Özgür Yazılım Derneği)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/yazilar/acik-kaynak/&#34;&gt;Neden açık kaynak değil özgür yazılım? (Özgür Yazılım Derneği)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/yazilar/sosyal-medyama-dokunma/&#34;&gt;#SosyalMedyamaDokunma bildirisi (Özgür Yazılım Derneği)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/yazilar/sifre-degil-parola/&#34;&gt;Neden şifre değil parola? (Özgür Yazılım Derneği)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.abakuskitap.com/Cocuklar-icin-Raspberry-Pi-ve-Python,PR-539.html&#34;&gt;Çocuklar için Raspberry Pi ve Python&lt;/a&gt;, &lt;em&gt;İlk üç bölüm&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;konuşmalar&#34;&gt;konuşmalar&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://media.libreplanet.org/u/libreplanet/m/living-liberated-zero-to-hero/&#34;&gt;Living liberated: Zero-to-hero (LibrePlanet 2022)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://media.libreplanet.org/u/libreplanet/m/freeing-networks-where-we-need-freedom-most/&#34;&gt;Freeing networks where we need freedom most (LibrePlanet 2021)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://video.ozgurkon.org/videos/watch/a2d8a05d-6ae0-446a-aeea-468fa8f04660&#34;&gt;Özgürlük Çelişkisi: Özgür Yazılım Kullanmamak, Özgür Yazılım Üretmekle Çelişir mi? (ÖzgürKon 2020)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/libreplanet.pdf&#34;&gt;In memory of Mustafa Akgül: Free software and political movements in Turkey (LibrePlanet 2020)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/libreplanet.pdf&#34;&gt;Free software for minorities of Turkey (LibrePlanet 2020, Boston, US)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://events.ccc.de/congress/2019/wiki/index.php/Session:Free_software_for_minorities_of_Turkey_with_their_own_languages&#34;&gt;Free software for minorities of Turkey (36C3, Leipzig, DE)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ooguz.net/ab19_sunu.pdf&#34;&gt;Gayrimerkezi bir dünyanın arifesinde iki yeni adım: GNU MediaGoblin ve GNU Taler (Akademik Bilişim 2019)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ooguz.net/oyot_sunu.pdf&#34;&gt;Özgür yazılım, özgür toplum (Yazılım Özgürlüğü Günü 2018)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;röportajlar&#34;&gt;röportajlar&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sendika.org/2021/07/ozgur-yazilim-dernegi-ile-soylesi-bu-bir-yazilim-degil-ozgurluk-vaadidir-625452/&#34;&gt;Bu bir yazılım değil özgürlük vaadidir (sendika.org)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sivilsayfalar.org/2020/03/30/pandemi-doneminde-ozgur-yazilim/&#34;&gt;Pandemi döneminde özgür yazılım (Sivil Sayfalar)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/episode/1mWRpDksSwfUry8aYZzAEl?si=fcee53be21004561&amp;amp;nd=1&#34;&gt;Yazılımın özgürlük mücadelesi (Albatros&amp;rsquo;un Konukları)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://web.archive.org/save/https://yeniyasamgazetesi3.com/sansuru-durdurmazsak-elimizde-penguen-kalir/&#34;&gt;Sansürü durdurmazsak elimizde penguen kalır (Yeni Yaşam)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;çeviriler--yerelleştirmeler&#34;&gt;çeviriler / yerelleştirmeler&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/yazilar/dating/&#34;&gt;Dating bir özgür yazılım problemidir (Molly de Blanc)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20201113055355/https://www.dijitalguvenlik.org/ceviri/yuzunuzu-afise-etmek-odeme-yapmak-icin-daha-hijyenik-bir-yol-degil/&#34;&gt;Yüzümüzü afişe etmek ödeme yapmak için daha hijyenik bir yol değil (EFF)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;eğitimler&#34;&gt;eğitimler&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kamp.linux.org.tr&#34;&gt;GNU/Linux Sistem Yönetimi 1. Düzey (Özgür Yazılım Yaz Kampı 2018-2019)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kamp.linux.org.tr&#34;&gt;GNU/Linux Sistem Yönetimi 0.5 (Özgür Yazılım Kış Kampı 2018-2020)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kamp.linux.org.tr/2022/kurslar/gelistiriciler-ve-dba-ler-icin-mongodb-ve-mass-data/&#34;&gt;Geliştiriciler ve DBA&amp;rsquo;ler için MongoDB ve Mass Data (Özgür Yazılım Yaz Kampı 2022)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kamp.linux.org.tr/2020/kis/kurslar/perl-ile-programlamaya-giris/&#34;&gt;Perl ile Programlamaya Giriş (Özgür Yazılım Kış Kampı 2020)&lt;/a&gt; (&lt;em&gt;yapılamadı&lt;/em&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;etkinlikler&#34;&gt;etkinlikler&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;ÖzgürKon 2020 (16-17 Mayıs 2020)&lt;/li&gt;
-&lt;li&gt;ÖzgürKon 2021 (29-30 Mayıs 2021)&lt;/li&gt;
-&lt;li&gt;CryptoParty Konya (27 Ekim 2019)&lt;/li&gt;
-&lt;li&gt;CryptoParty Istanbul
-&lt;ul&gt;
-&lt;li&gt;5 Ekim 2019&lt;/li&gt;
-&lt;li&gt;11 Aralık 2019&lt;/li&gt;
-&lt;li&gt;24 Nisan 2022&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;CryptoParty Lite (4 Ağustos 2020)&lt;/li&gt;
-&lt;li&gt;Vikimaraton Özgür Yazılım (16 Şubat 2020)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;diğer&#34;&gt;diğer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Silikon Vadisi Kanyon&amp;rsquo;da&lt;/li&gt;
-&lt;li&gt;Digital Revolution Sergisi Çocuk Atölyeleri (Zorlu Center PSM)&lt;/li&gt;
-&lt;li&gt;Çırak Dergi&lt;/li&gt;
-&lt;li&gt;CoderDojo Turkey @İskele47&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ooguz/turkce-kufur-karaliste&#34;&gt;turkce-kufur-karaliste&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
       <title>hakkımda</title>
-      <link>https://ooguz.net/about/</link>
-      <pubDate>Sun, 28 Oct 2018 22:26:52 +0300</pubDate>
+      <link>https://ozcanoguz.com.tr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ooguz.net/about/</guid>
-      <description>Bilgisayarla daha çok küçükken babamın bit pazarından getirdiği bir i486 DX2 makine ile tanıştım, sonra da gerisi geldi: Kadıköy Anadolu, Boğaziçi Üniversitesi, Hackerspace Istanbul, Özgür Yazılım Derneği, Özgür Yazılım Kampları&amp;hellip; Buraya yeni bir şeyler yazmam gerekiyor sanırım.
-İletişim    Kanal Adres     E-posta ozcan {güzela} oyd.org.tr   GnuPG d854 d9d8 5cb4 9107 04bd 9c5b 2d33 e2bd 3d97 5818   XMPP/OMEMO oo {güzela} 5222.de   Mektup P.</description>
-      <content>&lt;p&gt;Bilgisayarla daha çok küçükken babamın bit pazarından getirdiği bir i486 DX2 makine ile tanıştım, sonra da gerisi geldi: Kadıköy Anadolu, Boğaziçi Üniversitesi, Hackerspace Istanbul, Özgür Yazılım Derneği, Özgür Yazılım Kampları&amp;hellip; Buraya yeni bir şeyler yazmam gerekiyor sanırım.&lt;/p&gt;
+      <guid>https://ozcanoguz.com.tr/about/</guid>
+      <description>Bilgisayarla daha çok küçükken babamın bit pazarından getirdiği bir i486 DX2 makine ile tanıştım, sonra da gerisi geldi: Kadıköy Anadolu, Boğaziçi Üniversitesi, Hackerspace Istanbul, Özgür Yazılım Derneği, Özgür Yazılım Kampları&amp;hellip;
+İletişim Kanal Adres E-posta ozcan {güzela} oyd.org.tr GnuPG d854 d9d8 5cb4 9107 04bd 9c5b 2d33 e2bd 3d97 5818 XMPP/OMEMO oo {güzela} 5222.de Mektup P.K 58 34710 Kadıköy/İstanbul Twitter @ooguz </description>
+      <content>&lt;p&gt;Bilgisayarla daha çok küçükken babamın bit pazarından getirdiği bir i486 DX2 makine ile tanıştım, sonra da gerisi geldi: Kadıköy Anadolu, Boğaziçi Üniversitesi, Hackerspace Istanbul, Özgür Yazılım Derneği, Özgür Yazılım Kampları&amp;hellip;&lt;/p&gt;
 &lt;h3 id=&#34;iletişim&#34;&gt;İletişim&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -284,6 +210,83 @@ Peki Intel ME’den nasıl kurtulabilirim?&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>portfolyo</title>
+      <link>https://ozcanoguz.com.tr/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozcanoguz.com.tr/portfolio/</guid>
+      <description>yayınlar Türkiye&amp;rsquo;de İnternet&amp;rsquo;in **** 30. yılı bildirisi Özgür Yazılım Derneği Güvenlik Rehberi Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet (DijitalGüvenlik.org) Zarola: Kolay hatırlanabilir, güvenli parolalar oluşturmanın en iyi yolu DRM tehlikesi (Özgür Yazılım Derneği) Neden açık kaynak değil özgür yazılım? (Özgür Yazılım Derneği) #SosyalMedyamaDokunma bildirisi (Özgür Yazılım Derneği) Neden şifre değil parola? (Özgür Yazılım Derneği) Çocuklar için Raspberry Pi ve Python, İlk üç bölüm konuşmalar Living liberated: Zero-to-hero (LibrePlanet 2022) Freeing networks where we need freedom most (LibrePlanet 2021) Özgürlük Çelişkisi: Özgür Yazılım Kullanmamak, Özgür Yazılım Üretmekle Çelişir mi?</description>
+      <content>&lt;h2 id=&#34;yayınlar&#34;&gt;yayınlar&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sansurle30yil.org.tr&#34;&gt;Türkiye&amp;rsquo;de İnternet&amp;rsquo;in **** 30. yılı bildirisi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://guvenlik.oyd.org.tr&#34;&gt;Özgür Yazılım Derneği Güvenlik Rehberi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20201101124127/https://www.dijitalguvenlik.org/makale/donanimlarinizdaki-tehlikeler-guvenlik-ve-mahremiyet/&#34;&gt;Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet (DijitalGüvenlik.org)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zarola.oyd.org.tr/zarola_kitap.pdf&#34;&gt;Zarola: Kolay hatırlanabilir, güvenli parolalar oluşturmanın en iyi yolu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/yazilar/drm/&#34;&gt;DRM tehlikesi (Özgür Yazılım Derneği)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/yazilar/acik-kaynak/&#34;&gt;Neden açık kaynak değil özgür yazılım? (Özgür Yazılım Derneği)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/yazilar/sosyal-medyama-dokunma/&#34;&gt;#SosyalMedyamaDokunma bildirisi (Özgür Yazılım Derneği)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/yazilar/sifre-degil-parola/&#34;&gt;Neden şifre değil parola? (Özgür Yazılım Derneği)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.abakuskitap.com/Cocuklar-icin-Raspberry-Pi-ve-Python,PR-539.html&#34;&gt;Çocuklar için Raspberry Pi ve Python&lt;/a&gt;, &lt;em&gt;İlk üç bölüm&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;konuşmalar&#34;&gt;konuşmalar&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://media.libreplanet.org/u/libreplanet/m/living-liberated-zero-to-hero/&#34;&gt;Living liberated: Zero-to-hero (LibrePlanet 2022)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://media.libreplanet.org/u/libreplanet/m/freeing-networks-where-we-need-freedom-most/&#34;&gt;Freeing networks where we need freedom most (LibrePlanet 2021)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://video.ozgurkon.org/videos/watch/a2d8a05d-6ae0-446a-aeea-468fa8f04660&#34;&gt;Özgürlük Çelişkisi: Özgür Yazılım Kullanmamak, Özgür Yazılım Üretmekle Çelişir mi? (ÖzgürKon 2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/libreplanet.pdf&#34;&gt;In memory of Mustafa Akgül: Free software and political movements in Turkey (LibrePlanet 2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/libreplanet.pdf&#34;&gt;Free software for minorities of Turkey (LibrePlanet 2020, Boston, US)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://events.ccc.de/congress/2019/wiki/index.php/Session:Free_software_for_minorities_of_Turkey_with_their_own_languages&#34;&gt;Free software for minorities of Turkey (36C3, Leipzig, DE)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ozcanoguz.com.tr/ab19_sunu.pdf&#34;&gt;Gayrimerkezi bir dünyanın arifesinde iki yeni adım: GNU MediaGoblin ve GNU Taler (Akademik Bilişim 2019)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ozcanoguz.com.tr/oyot_sunu.pdf&#34;&gt;Özgür yazılım, özgür toplum (Yazılım Özgürlüğü Günü 2018)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;röportajlar&#34;&gt;röportajlar&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../posts/yayinlanmayan-roportajlar-internet-hakki&#34;&gt;İnternet hakkı&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sendika.org/2021/07/ozgur-yazilim-dernegi-ile-soylesi-bu-bir-yazilim-degil-ozgurluk-vaadidir-625452/&#34;&gt;Bu bir yazılım değil özgürlük vaadidir (sendika.org)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sivilsayfalar.org/2020/03/30/pandemi-doneminde-ozgur-yazilim/&#34;&gt;Pandemi döneminde özgür yazılım (Sivil Sayfalar)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/episode/1mWRpDksSwfUry8aYZzAEl?si=fcee53be21004561&amp;amp;nd=1&#34;&gt;Yazılımın özgürlük mücadelesi (Albatros&amp;rsquo;un Konukları)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.archive.org/save/https://yeniyasamgazetesi3.com/sansuru-durdurmazsak-elimizde-penguen-kalir/&#34;&gt;Sansürü durdurmazsak elimizde penguen kalır (Yeni Yaşam)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;çeviriler--yerelleştirmeler&#34;&gt;çeviriler / yerelleştirmeler&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/yazilar/dating/&#34;&gt;Dating bir özgür yazılım problemidir (Molly de Blanc)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20201113055355/https://www.dijitalguvenlik.org/ceviri/yuzunuzu-afise-etmek-odeme-yapmak-icin-daha-hijyenik-bir-yol-degil/&#34;&gt;Yüzümüzü afişe etmek ödeme yapmak için daha hijyenik bir yol değil (EFF)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;eğitimler&#34;&gt;eğitimler&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kamp.linux.org.tr&#34;&gt;GNU/Linux Sistem Yönetimi 1. Düzey (Özgür Yazılım Yaz Kampı 2018-2019)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kamp.linux.org.tr&#34;&gt;GNU/Linux Sistem Yönetimi 0.5 (Özgür Yazılım Kış Kampı 2018-2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kamp.linux.org.tr/2022/kurslar/gelistiriciler-ve-dba-ler-icin-mongodb-ve-mass-data/&#34;&gt;Geliştiriciler ve DBA&amp;rsquo;ler için MongoDB ve Mass Data (Özgür Yazılım Yaz Kampı 2022)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kamp.linux.org.tr/2023-kis/kurslar/latex-101/&#34;&gt;LaTeX 101&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kamp.linux.org.tr/2020/kis/kurslar/perl-ile-programlamaya-giris/&#34;&gt;Perl ile Programlamaya Giriş (Özgür Yazılım Kış Kampı 2020)&lt;/a&gt; (&lt;em&gt;yapılamadı&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;etkinlikler&#34;&gt;etkinlikler&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ÖzgürKon 2020 (16-17 Mayıs 2020)&lt;/li&gt;
+&lt;li&gt;ÖzgürKon 2021 (29-30 Mayıs 2021)&lt;/li&gt;
+&lt;li&gt;CryptoParty Konya (27 Ekim 2019)&lt;/li&gt;
+&lt;li&gt;CryptoParty Istanbul
+&lt;ul&gt;
+&lt;li&gt;5 Ekim 2019&lt;/li&gt;
+&lt;li&gt;11 Aralık 2019&lt;/li&gt;
+&lt;li&gt;24 Nisan 2022&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CryptoParty Lite (4 Ağustos 2020)&lt;/li&gt;
+&lt;li&gt;Vikimaraton Özgür Yazılım (16 Şubat 2020)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;diğer&#34;&gt;diğer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Silikon Vadisi Kanyon&amp;rsquo;da&lt;/li&gt;
+&lt;li&gt;Digital Revolution Sergisi Çocuk Atölyeleri (Zorlu Center PSM)&lt;/li&gt;
+&lt;li&gt;Çırak Dergi&lt;/li&gt;
+&lt;li&gt;CoderDojo Turkey @İskele47&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ooguz/turkce-kufur-karaliste&#34;&gt;turkce-kufur-karaliste&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     </item>
     
