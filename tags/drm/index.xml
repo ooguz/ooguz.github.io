@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>drm on Özcan Oğuz</title>
-    <link>https://ooguz.net/tags/drm/</link>
+    <link>https://ozcanoguz.com.tr/tags/drm/</link>
     <description>Recent content in drm on Özcan Oğuz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
     <copyright>Özcan Oğuz</copyright>
-    <lastBuildDate>Fri, 27 Mar 2020 00:38:03 +0300</lastBuildDate><atom:link href="https://ooguz.net/tags/drm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Mar 2020 00:38:03 +0300</lastBuildDate><atom:link href="https://ozcanoguz.com.tr/tags/drm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DRM tehlikesi</title>
-      <link>https://ooguz.net/posts/drm-tehlikesi/</link>
+      <link>https://ozcanoguz.com.tr/posts/drm-tehlikesi/</link>
       <pubDate>Fri, 27 Mar 2020 00:38:03 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/drm-tehlikesi/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/drm-tehlikesi/</guid>
       <description>Favori kitabevinizden satın aldığınız bir kitabı, yalnızca evinizin salonunda bulunmak zorunda olan, Kardeşler Mobilya&amp;rsquo;dan alınma bir koltuğa oturarak okuyabildiğinizi ve üzerine de Portakal Kalem üretimi siyah renk bir kalemle not alabildiğinizi hayal edin. Bunun haricinde yapacağınız her türlü okumanın da yasak olduğunu. Bu kitabı sadece Gomore marka bir kitaplığa koyabildiğinizi, hatta bir sabah kalktığınızda kitabın kitaplığınızdan &amp;ldquo;sözleşmesinin bittiği&amp;rdquo; gerekçesiyle yok olduğunu. Saçma gibi geliyor değil mi? Ama artık bu bir gerçek, DRM yüzünden.</description>
       <content>&lt;p&gt;&lt;em&gt;Bu yazı, Özgür Yazılım Derneği&amp;rsquo;nin web sitesinde yayınlanmıştır.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Favori kitabevinizden satın aldığınız bir kitabı, yalnızca evinizin salonunda bulunmak zorunda olan, Kardeşler Mobilya&amp;rsquo;dan alınma bir koltuğa oturarak okuyabildiğinizi ve üzerine de Portakal Kalem üretimi siyah renk bir kalemle not alabildiğinizi hayal edin. Bunun haricinde yapacağınız her türlü okumanın da yasak olduğunu. Bu kitabı sadece Gomore marka bir kitaplığa koyabildiğinizi, hatta bir sabah kalktığınızda kitabın kitaplığınızdan &amp;ldquo;sözleşmesinin bittiği&amp;rdquo; gerekçesiyle yok olduğunu. Saçma gibi geliyor değil mi? Ama artık bu bir gerçek, DRM yüzünden.&lt;/p&gt;
@@ -26,7 +26,7 @@
 &lt;p&gt;Çok ironik bir biçimde, Amazon kullanıcıların &amp;ldquo;satın aldıklarını düşündükleri&amp;rdquo; George Orwell&amp;rsquo;in 1984 kitabını, kitabın yayıncısıyla olan sözleşmesinin bittiği gerekçesiyle uzaktan silmiştir [5]. Bu hissi anlamak için şöyle hayal edin, bir gece uyumadan önce 1984&amp;rsquo;ü okuyorsunuz, kitaplığınıza koyuyorsunuz, sabah kalktığınızda bulamıyorsunuz. Çiftartı iyi!&lt;/p&gt;
 &lt;p&gt;Hatta DRM marifetiyle özgürlüğümüzü ortadan kaldırmaya yemin etmiş bazı firmalar, kitaplarının &amp;ldquo;lisans sözleşmelerine&amp;rdquo; kitabı yüksek sesle okumanızın yasak olduğuna dair bir madde eklemekten bile utanmamışlardır.&lt;/p&gt;
 &lt;p&gt;Son tahlilde, DRM özgürlüğümüze düşman bir yapıdır, tasarımı gereği kusurludur [6]. Ancak elbette DRM olmadan dijital dünyadan faydalanmak da mümkündür, eskiden olduğu gibi fiziksel medyalar kullanarak, kullanıcılarını DRM&amp;rsquo;e zorlamayan hizmetleri tercih ederek [7], mümkün olmayan durumlarda ise bilgiyi ve veriyi &amp;ldquo;özgürleştirerek&amp;rdquo; DRM&amp;rsquo;siz yaşayabilir ve özgürlüğünüzü koruyabilirsiniz.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Referanslar:  
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Referanslar:  
 1: u.oyd.org.tr/UI9  
 2: 451°F  
 3: u.oyd.org.tr/JEy  

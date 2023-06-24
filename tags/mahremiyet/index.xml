@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mahremiyet on Özcan Oğuz</title>
-    <link>https://ooguz.net/tags/mahremiyet/</link>
+    <link>https://ozcanoguz.com.tr/tags/mahremiyet/</link>
     <description>Recent content in mahremiyet on Özcan Oğuz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
     <copyright>Özcan Oğuz</copyright>
-    <lastBuildDate>Sat, 14 Nov 2020 14:46:32 +0300</lastBuildDate><atom:link href="https://ooguz.net/tags/mahremiyet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Nov 2020 14:46:32 +0300</lastBuildDate><atom:link href="https://ozcanoguz.com.tr/tags/mahremiyet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet</title>
-      <link>https://ooguz.net/posts/donanimlarinizdaki-tehlikeler/</link>
+      <link>https://ozcanoguz.com.tr/posts/donanimlarinizdaki-tehlikeler/</link>
       <pubDate>Sat, 14 Nov 2020 14:46:32 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/donanimlarinizdaki-tehlikeler/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/donanimlarinizdaki-tehlikeler/</guid>
       <description>Bu yazı, dijitalguvenlik.org adresinde yayınlanmıştır.
 Dijital güvenlik ve mahremiyet üzerine biraz eğildiğimizde, genellikle karşımıza yazılımlar ve yazılım güvenliği konuları çıkıyor. Kullandığımız yazılımlar, güvenliğimiz ve mahremiyetimiz için son derece önemli, ancak konu sadece bununla sınırlı değil.
 Günlük hayatımızda kullandığımız çevremizdeki pek çok donanım da aslında güvenliğimiz için birer tehdit oluşturabilmektedir. Kullandığımız bilgisayardan bindiğimiz otomobile kadar pek çok donanım, ciddi tehditler oluşturabilecek özgürlük, güvenlik ve mahremiyet sorunları içeriyor. Bu yazıda bu sorunların neler olabileceğini ve bu sorunlar için çeşitli çözüm önerilerini derledik.</description>
@@ -80,17 +80,17 @@ Peki Intel ME’den nasıl kurtulabilirim?&lt;/p&gt;
 &lt;p&gt;Bu noktada aslında önemli ölçüde yazılımlara dayanmayan otomobiller kullanmak dışında çok fazla çözüm maalesef ki yok. Bu sorun, ancak otomobil üreticilerine örgütlü bir biçimde güvenli ve özgür yazılım çağrısında bulunarak veya bu cihazları hackleyip Libreboot gibi alternatif yazılımlar geliştirerek çözülebilir görünüyor.&lt;/p&gt;
 &lt;h2 id=&#34;son-söz&#34;&gt;Son söz&lt;/h2&gt;
 &lt;p&gt;Mevcut atmosfer, halihazırda var olan özgürlük ve mahremiyet ihtiyacının ilerleyen süreçte katlanarak yükseleceğini hissettiriyor. Özellikle IoT cihazlarının yaygınlaşması ve her şeyin bir yazılımdan azade olmadığı bir noktaya doğru evrilmemiz bu durumun en net göstergelerinden biri halinde. Bu noktada önemli olan, mahremiyetin ve özgürlüğün asli birer mesele olduğunu fark etmek ve bunlardan vazgeçtiğimiz her noktada aslında herkesin mahremiyetine ve özgürlüğüne ket vurduğumuzun bilincine varmaktır. Özgürlük vazgeçebilmek ve aksini söyleyebilmektir. Dijitalleşen dünyanın getirdiği konfor alanlarından vazgeçmemek için özgürlüğümüzden ve mahremiyetimizden vazgeçmek, nihayetinde hepimizin, özellikle de kendimizin zararına olacaktır.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Advanced Management Technology – Gelişmiş Yönetim Teknolojisi &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Advanced Management Technology – Gelişmiş Yönetim Teknolojisi&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Digital Rights/Restrictions Management – Dijital Haklar/Kısıtlamalar Yönetimi &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Digital Rights/Restrictions Management – Dijital Haklar/Kısıtlamalar Yönetimi&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </content>
     </item>
     

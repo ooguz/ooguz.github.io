@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>yazılar on Özcan Oğuz</title>
-    <link>https://ooguz.net/posts/</link>
+    <link>https://ozcanoguz.com.tr/posts/</link>
     <description>Recent content in yazılar on Özcan Oğuz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
     <copyright>Özcan Oğuz</copyright>
-    <lastBuildDate>Sun, 28 Oct 2018 22:26:52 +0300</lastBuildDate><atom:link href="https://ooguz.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Oct 2018 22:26:52 +0300</lastBuildDate><atom:link href="https://ozcanoguz.com.tr/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yayınlanmayan röportajlar #0: İnternet hakkı</title>
-      <link>https://ooguz.net/posts/yayinlanmayan-roportajlar-internet-hakki/</link>
+      <link>https://ozcanoguz.com.tr/posts/yayinlanmayan-roportajlar-internet-hakki/</link>
       <pubDate>Sat, 31 Dec 2022 23:04:03 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/yayinlanmayan-roportajlar-internet-hakki/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/yayinlanmayan-roportajlar-internet-hakki/</guid>
       <description>2022 Kasım&amp;rsquo;ında bir ulusal gazete tarafından talep edilen ancak bilmediğim bir sebepten ötürü yayınlanmasından vazgeçilen İnternet hakkı üzerine verdiğim mülakatı kendim yayınlamaya karar verdim.</description>
       <content>&lt;p&gt;&lt;em&gt;2022 Kasım&amp;rsquo;ında bir ulusal gazete tarafından talep edilen ancak bilmediğim bir sebepten ötürü yayınlanmasından vazgeçilen İnternet hakkı üzerine verdiğim mülakatı kendim yayınlamaya karar verdim. Keyifli okumalar.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -57,10 +57,10 @@
     
     <item>
       <title>Donanımlarınızdaki Tehlikeler, Güvenlik ve Mahremiyet</title>
-      <link>https://ooguz.net/posts/donanimlarinizdaki-tehlikeler/</link>
+      <link>https://ozcanoguz.com.tr/posts/donanimlarinizdaki-tehlikeler/</link>
       <pubDate>Sat, 14 Nov 2020 14:46:32 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/donanimlarinizdaki-tehlikeler/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/donanimlarinizdaki-tehlikeler/</guid>
       <description>Bu yazı, dijitalguvenlik.org adresinde yayınlanmıştır.
 Dijital güvenlik ve mahremiyet üzerine biraz eğildiğimizde, genellikle karşımıza yazılımlar ve yazılım güvenliği konuları çıkıyor. Kullandığımız yazılımlar, güvenliğimiz ve mahremiyetimiz için son derece önemli, ancak konu sadece bununla sınırlı değil.
 Günlük hayatımızda kullandığımız çevremizdeki pek çok donanım da aslında güvenliğimiz için birer tehdit oluşturabilmektedir. Kullandığımız bilgisayardan bindiğimiz otomobile kadar pek çok donanım, ciddi tehditler oluşturabilecek özgürlük, güvenlik ve mahremiyet sorunları içeriyor. Bu yazıda bu sorunların neler olabileceğini ve bu sorunlar için çeşitli çözüm önerilerini derledik.</description>
@@ -127,26 +127,26 @@ Peki Intel ME’den nasıl kurtulabilirim?&lt;/p&gt;
 &lt;p&gt;Bu noktada aslında önemli ölçüde yazılımlara dayanmayan otomobiller kullanmak dışında çok fazla çözüm maalesef ki yok. Bu sorun, ancak otomobil üreticilerine örgütlü bir biçimde güvenli ve özgür yazılım çağrısında bulunarak veya bu cihazları hackleyip Libreboot gibi alternatif yazılımlar geliştirerek çözülebilir görünüyor.&lt;/p&gt;
 &lt;h2 id=&#34;son-söz&#34;&gt;Son söz&lt;/h2&gt;
 &lt;p&gt;Mevcut atmosfer, halihazırda var olan özgürlük ve mahremiyet ihtiyacının ilerleyen süreçte katlanarak yükseleceğini hissettiriyor. Özellikle IoT cihazlarının yaygınlaşması ve her şeyin bir yazılımdan azade olmadığı bir noktaya doğru evrilmemiz bu durumun en net göstergelerinden biri halinde. Bu noktada önemli olan, mahremiyetin ve özgürlüğün asli birer mesele olduğunu fark etmek ve bunlardan vazgeçtiğimiz her noktada aslında herkesin mahremiyetine ve özgürlüğüne ket vurduğumuzun bilincine varmaktır. Özgürlük vazgeçebilmek ve aksini söyleyebilmektir. Dijitalleşen dünyanın getirdiği konfor alanlarından vazgeçmemek için özgürlüğümüzden ve mahremiyetimizden vazgeçmek, nihayetinde hepimizin, özellikle de kendimizin zararına olacaktır.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Advanced Management Technology – Gelişmiş Yönetim Teknolojisi &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Advanced Management Technology – Gelişmiş Yönetim Teknolojisi&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Digital Rights/Restrictions Management – Dijital Haklar/Kısıtlamalar Yönetimi &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Digital Rights/Restrictions Management – Dijital Haklar/Kısıtlamalar Yönetimi&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </content>
     </item>
     
     <item>
       <title>DRM tehlikesi</title>
-      <link>https://ooguz.net/posts/drm-tehlikesi/</link>
+      <link>https://ozcanoguz.com.tr/posts/drm-tehlikesi/</link>
       <pubDate>Fri, 27 Mar 2020 00:38:03 +0300</pubDate>
       
-      <guid>https://ooguz.net/posts/drm-tehlikesi/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/drm-tehlikesi/</guid>
       <description>Favori kitabevinizden satın aldığınız bir kitabı, yalnızca evinizin salonunda bulunmak zorunda olan, Kardeşler Mobilya&amp;rsquo;dan alınma bir koltuğa oturarak okuyabildiğinizi ve üzerine de Portakal Kalem üretimi siyah renk bir kalemle not alabildiğinizi hayal edin. Bunun haricinde yapacağınız her türlü okumanın da yasak olduğunu. Bu kitabı sadece Gomore marka bir kitaplığa koyabildiğinizi, hatta bir sabah kalktığınızda kitabın kitaplığınızdan &amp;ldquo;sözleşmesinin bittiği&amp;rdquo; gerekçesiyle yok olduğunu. Saçma gibi geliyor değil mi? Ama artık bu bir gerçek, DRM yüzünden.</description>
       <content>&lt;p&gt;&lt;em&gt;Bu yazı, Özgür Yazılım Derneği&amp;rsquo;nin web sitesinde yayınlanmıştır.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Favori kitabevinizden satın aldığınız bir kitabı, yalnızca evinizin salonunda bulunmak zorunda olan, Kardeşler Mobilya&amp;rsquo;dan alınma bir koltuğa oturarak okuyabildiğinizi ve üzerine de Portakal Kalem üretimi siyah renk bir kalemle not alabildiğinizi hayal edin. Bunun haricinde yapacağınız her türlü okumanın da yasak olduğunu. Bu kitabı sadece Gomore marka bir kitaplığa koyabildiğinizi, hatta bir sabah kalktığınızda kitabın kitaplığınızdan &amp;ldquo;sözleşmesinin bittiği&amp;rdquo; gerekçesiyle yok olduğunu. Saçma gibi geliyor değil mi? Ama artık bu bir gerçek, DRM yüzünden.&lt;/p&gt;
@@ -159,7 +159,7 @@ Peki Intel ME’den nasıl kurtulabilirim?&lt;/p&gt;
 &lt;p&gt;Çok ironik bir biçimde, Amazon kullanıcıların &amp;ldquo;satın aldıklarını düşündükleri&amp;rdquo; George Orwell&amp;rsquo;in 1984 kitabını, kitabın yayıncısıyla olan sözleşmesinin bittiği gerekçesiyle uzaktan silmiştir [5]. Bu hissi anlamak için şöyle hayal edin, bir gece uyumadan önce 1984&amp;rsquo;ü okuyorsunuz, kitaplığınıza koyuyorsunuz, sabah kalktığınızda bulamıyorsunuz. Çiftartı iyi!&lt;/p&gt;
 &lt;p&gt;Hatta DRM marifetiyle özgürlüğümüzü ortadan kaldırmaya yemin etmiş bazı firmalar, kitaplarının &amp;ldquo;lisans sözleşmelerine&amp;rdquo; kitabı yüksek sesle okumanızın yasak olduğuna dair bir madde eklemekten bile utanmamışlardır.&lt;/p&gt;
 &lt;p&gt;Son tahlilde, DRM özgürlüğümüze düşman bir yapıdır, tasarımı gereği kusurludur [6]. Ancak elbette DRM olmadan dijital dünyadan faydalanmak da mümkündür, eskiden olduğu gibi fiziksel medyalar kullanarak, kullanıcılarını DRM&amp;rsquo;e zorlamayan hizmetleri tercih ederek [7], mümkün olmayan durumlarda ise bilgiyi ve veriyi &amp;ldquo;özgürleştirerek&amp;rdquo; DRM&amp;rsquo;siz yaşayabilir ve özgürlüğünüzü koruyabilirsiniz.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Referanslar:  
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Referanslar:  
 1: u.oyd.org.tr/UI9  
 2: 451°F  
 3: u.oyd.org.tr/JEy  
