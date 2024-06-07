@@ -1,0 +1,21 @@
+---
+title: "Açık kaynağın sonu"
+categories: ["teknik", "özgür yazılım"]
+tags: ["teknik", "özgür yazılım"]
+author: Özcan Oğuz
+date: 2023-06-27T14:46:32+03:00
+draft: false
+---
+
+Evet, biraz iddialı bir başlık olabilir, ama gerçek maalesef bu; açık kaynak yolun sonuna geldi.
+
+Uzun yıllardır verdiğim tüm eğitimlerde, yaptığım tüm konuşmalarda üstüne basa basa vurguladığım bir konuydu bu, **açık kaynak** bir _ticari yaklaşım_ ya da pragmatik bir _yazılım geliştirme stratejisi_ ancak **özgür yazılım** bir *politik duruş*tur. Hatta bence kötü bir tabir olsa da, konuya felsefik yaklaşımlar getiren bir ideolojidir de denilebilir belki. Bunu aslında açık kaynak hareketinin öncülerinden [Eric S. Raymond](https://www.catb.org/esr/) ünlü [How to Become a Hacker](https://www.catb.org/~esr/faqs/hacker-howto.html) belgesinde biraz da iğneleyici bir tavırla şu şekilde söylemişti[^1]:
+
+>The term "open source", however, had not yet emerged; it would not do so until early 1998. When it did, most of the hacker community adopted it within the following six months; the exceptions were a minority ideologically attached to the term "free software". Since 1998, and especially after about 2003, the identification of 'hacking' with 'open-source (and free software) development' has become extremely close. Today there is little point in attempting to distinguish between these categories, and it seems unlikely that will change in the future.
+
+
+
+----
+
+[^1]: Belgenin tamamı hacker kültürüne dair çok önemli detaylar içeriyor, kesinlikle zamanınız varsa okumanızı tavsiye ederim.
+
