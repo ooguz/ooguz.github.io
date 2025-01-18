@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Özcan Oğuz</title>
+    <title>Categories on </title>
     <link>https://ozcanoguz.com.tr/categories/</link>
-    <description>Recent content in Categories on Özcan Oğuz</description>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>tr</language>
     <copyright>Özcan Oğuz</copyright>
-    <lastBuildDate>Fri, 07 Jun 2024 14:46:32 +0300</lastBuildDate><atom:link href="https://ozcanoguz.com.tr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jan 2025 20:15:32 +0300</lastBuildDate><atom:link href="https://ozcanoguz.com.tr/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bilinç akışı</title>
+      <title>Teknik</title>
+      <link>https://ozcanoguz.com.tr/categories/teknik/</link>
+      <pubDate>Sat, 18 Jan 2025 20:15:32 +0300</pubDate>
+      
+      <guid>https://ozcanoguz.com.tr/categories/teknik/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Bilinç Akışı</title>
       <link>https://ozcanoguz.com.tr/categories/bilin%C3%A7-ak%C4%B1%C5%9F%C4%B1/</link>
       <pubDate>Fri, 07 Jun 2024 14:46:32 +0300</pubDate>
       
@@ -19,7 +29,7 @@
     </item>
     
     <item>
-      <title>donanım özgürlüğü</title>
+      <title>Donanım Özgürlüğü</title>
       <link>https://ozcanoguz.com.tr/categories/donan%C4%B1m-%C3%B6zg%C3%BCrl%C3%BC%C4%9F%C3%BC/</link>
       <pubDate>Sat, 14 Nov 2020 14:46:32 +0300</pubDate>
       
@@ -29,7 +39,7 @@
     </item>
     
     <item>
-      <title>mahremiyet</title>
+      <title>Mahremiyet</title>
       <link>https://ozcanoguz.com.tr/categories/mahremiyet/</link>
       <pubDate>Sat, 14 Nov 2020 14:46:32 +0300</pubDate>
       
@@ -39,7 +49,7 @@
     </item>
     
     <item>
-      <title>özgür yazılım</title>
+      <title>Özgür Yazılım</title>
       <link>https://ozcanoguz.com.tr/categories/%C3%B6zg%C3%BCr-yaz%C4%B1l%C4%B1m/</link>
       <pubDate>Sat, 14 Nov 2020 14:46:32 +0300</pubDate>
       

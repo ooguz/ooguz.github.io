@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>özgür yazılım on Özcan Oğuz</title>
+    <title>Özgür Yazılım on </title>
     <link>https://ozcanoguz.com.tr/categories/%C3%B6zg%C3%BCr-yaz%C4%B1l%C4%B1m/</link>
-    <description>Recent content in özgür yazılım on Özcan Oğuz</description>
+    <description>Recent content in Özgür Yazılım on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>tr</language>
     <copyright>Özcan Oğuz</copyright>
     <lastBuildDate>Sat, 14 Nov 2020 14:46:32 +0300</lastBuildDate><atom:link href="https://ozcanoguz.com.tr/categories/%C3%B6zg%C3%BCr-yaz%C4%B1l%C4%B1m/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,9 +14,9 @@
       <pubDate>Sat, 14 Nov 2020 14:46:32 +0300</pubDate>
       
       <guid>https://ozcanoguz.com.tr/posts/donanimlarinizdaki-tehlikeler/</guid>
-      <description>Bu yazı, dijitalguvenlik.org adresinde yayınlanmıştır.
-Dijital güvenlik ve mahremiyet üzerine biraz eğildiğimizde, genellikle karşımıza yazılımlar ve yazılım güvenliği konuları çıkıyor. Kullandığımız yazılımlar, güvenliğimiz ve mahremiyetimiz için son derece önemli, ancak konu sadece bununla sınırlı değil.
-Günlük hayatımızda kullandığımız çevremizdeki pek çok donanım da aslında güvenliğimiz için birer tehdit oluşturabilmektedir. Kullandığımız bilgisayardan bindiğimiz otomobile kadar pek çok donanım, ciddi tehditler oluşturabilecek özgürlük, güvenlik ve mahremiyet sorunları içeriyor. Bu yazıda bu sorunların neler olabileceğini ve bu sorunlar için çeşitli çözüm önerilerini derledik.</description>
+      <description>&lt;p&gt;&lt;em&gt;Bu yazı, dijitalguvenlik.org adresinde yayınlanmıştır.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Dijital güvenlik ve mahremiyet üzerine biraz eğildiğimizde, genellikle karşımıza yazılımlar ve yazılım güvenliği konuları çıkıyor. Kullandığımız yazılımlar, güvenliğimiz ve mahremiyetimiz için son derece önemli, ancak konu sadece bununla sınırlı değil.&lt;/p&gt;
+&lt;p&gt;Günlük hayatımızda kullandığımız çevremizdeki pek çok donanım da aslında güvenliğimiz için birer tehdit oluşturabilmektedir. Kullandığımız bilgisayardan bindiğimiz otomobile kadar pek çok donanım, ciddi tehditler oluşturabilecek özgürlük, güvenlik ve mahremiyet sorunları içeriyor. Bu yazıda bu sorunların neler olabileceğini ve bu sorunlar için çeşitli çözüm önerilerini derledik.&lt;/p&gt;</description>
       <content>&lt;p&gt;&lt;em&gt;Bu yazı, dijitalguvenlik.org adresinde yayınlanmıştır.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Dijital güvenlik ve mahremiyet üzerine biraz eğildiğimizde, genellikle karşımıza yazılımlar ve yazılım güvenliği konuları çıkıyor. Kullandığımız yazılımlar, güvenliğimiz ve mahremiyetimiz için son derece önemli, ancak konu sadece bununla sınırlı değil.&lt;/p&gt;
 &lt;p&gt;Günlük hayatımızda kullandığımız çevremizdeki pek çok donanım da aslında güvenliğimiz için birer tehdit oluşturabilmektedir. Kullandığımız bilgisayardan bindiğimiz otomobile kadar pek çok donanım, ciddi tehditler oluşturabilecek özgürlük, güvenlik ve mahremiyet sorunları içeriyor. Bu yazıda bu sorunların neler olabileceğini ve bu sorunlar için çeşitli çözüm önerilerini derledik.&lt;/p&gt;

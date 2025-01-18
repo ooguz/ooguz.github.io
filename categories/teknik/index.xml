@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teknik on </title>
+    <link>https://ozcanoguz.com.tr/categories/teknik/</link>
+    <description>Recent content in Teknik on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language>
+    <copyright>Özcan Oğuz</copyright>
+    <lastBuildDate>Sat, 18 Jan 2025 20:15:32 +0300</lastBuildDate><atom:link href="https://ozcanoguz.com.tr/categories/teknik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Açık mı kaynak?: Bitmeyen bir kavram kargaşası</title>
+      <link>https://ozcanoguz.com.tr/posts/acik-mi-kaynak/</link>
+      <pubDate>Sat, 18 Jan 2025 20:15:32 +0300</pubDate>
+      
+      <guid>https://ozcanoguz.com.tr/posts/acik-mi-kaynak/</guid>
+      <description>&lt;p&gt;Öyle fazla geçmişe gitmeye gerek yok, oturup bana üç gün önce sorsanız, açık kaynak üzerine bir yazı kaleme alacağım aklımın ucundan geçmezdi herhalde. Yirmi yıla yaklaşan süredir özgür yazılım-açık kaynak ayrılığında özgür yazılım için mücadele ettiğimi, bu mücadele için yeri gelince &lt;a href=&#34;https://oyd.org.tr&#34;&gt;dernek&lt;/a&gt; kurup, &lt;a href=&#34;https://lkd.org.tr&#34;&gt;kimilerine&lt;/a&gt; üye olup, neredeyse altı ayda bir bu konuda &lt;a href=&#34;https://kamp.linux.org.tr&#34;&gt;eğitimler&lt;/a&gt; verdiğimi göz önüne alınca, hayatımın bir noktasında &amp;ldquo;açık kaynağı&amp;rdquo; savunacağımı hiç düşünmezdim; ama o gün bugünmüş.&lt;/p&gt;
+&lt;p&gt;Her şeyden önce &amp;ldquo;ne o Özcan, kafana taş mı düştü?&amp;rdquo; diye soracak arkadaşlar için bir not düşeyim: Özgür yazılım aslında bu yazının temel öznesi değil. Açık kaynak etrafında yaşanan bir kafa ve kavram karışıklığının özgür yazılımı da etkilemesi sebebiyle bu yazıyı yazmaya ve bu savunuyu yapmaya karar verdim, çatışmada tarafım elbette ki hala aynı :)&lt;/p&gt;</description>
+      <content>&lt;p&gt;Öyle fazla geçmişe gitmeye gerek yok, oturup bana üç gün önce sorsanız, açık kaynak üzerine bir yazı kaleme alacağım aklımın ucundan geçmezdi herhalde. Yirmi yıla yaklaşan süredir özgür yazılım-açık kaynak ayrılığında özgür yazılım için mücadele ettiğimi, bu mücadele için yeri gelince &lt;a href=&#34;https://oyd.org.tr&#34;&gt;dernek&lt;/a&gt; kurup, &lt;a href=&#34;https://lkd.org.tr&#34;&gt;kimilerine&lt;/a&gt; üye olup, neredeyse altı ayda bir bu konuda &lt;a href=&#34;https://kamp.linux.org.tr&#34;&gt;eğitimler&lt;/a&gt; verdiğimi göz önüne alınca, hayatımın bir noktasında &amp;ldquo;açık kaynağı&amp;rdquo; savunacağımı hiç düşünmezdim; ama o gün bugünmüş.&lt;/p&gt;
+&lt;p&gt;Her şeyden önce &amp;ldquo;ne o Özcan, kafana taş mı düştü?&amp;rdquo; diye soracak arkadaşlar için bir not düşeyim: Özgür yazılım aslında bu yazının temel öznesi değil. Açık kaynak etrafında yaşanan bir kafa ve kavram karışıklığının özgür yazılımı da etkilemesi sebebiyle bu yazıyı yazmaya ve bu savunuyu yapmaya karar verdim, çatışmada tarafım elbette ki hala aynı :)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The word “free” has two legitimate general meanings; it can refer either to freedom or to price. When we speak of “free software,” we&amp;rsquo;re talking about freedom, not price. (Think of “free speech,” not “free beer.”) Specifically, it means that a user is free to run the program, study and change the program, and redistribute the program with or without changes.&lt;/p&gt;
+&lt;p&gt;&amp;ndash; GNU Project&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Özgür yazılım, açık kaynak gibi kavramlarla hayatında ilk kez karşılaşan her insanın, hatta yalnızca bu da değil, bilgisayar kullanıp da herhangi bir yazılım indirmeye karar vermiş hemen hemen herkesin &amp;ldquo;free software&amp;rdquo; ifadesini görünce &amp;ldquo;free&amp;rdquo; kelimesini &amp;ldquo;bedava&amp;rdquo; olarak yorumlaması gayet doğal ve beklendik bir şey. Çünkü özgür yazılımlar genellikle ücretsiz olarak indirilebildiği gibi, kaderin bir cilvesi ki dünyanın neredeyse bütün dillerinden farklı olarak &lt;em&gt;lingua franca&lt;/em&gt; İngilizcede &amp;ldquo;bedava&amp;rdquo; ve &amp;ldquo;özgür&amp;rdquo; sıfatları için aynı kelime kullanılıyor; bu da kaçınılmaz olarak özellikle sıradan kullanıcıların, daha önceden &amp;ldquo;edinilen bir şey&amp;rdquo; söz konusu olduğunda aşina olduğu &amp;ldquo;bedava&amp;rdquo; sıfatını yazılımlara &amp;ldquo;özgür&amp;rdquo; sıfatından daha uygun görmesine sebep oluyor. Türkçe, Kürtçe, Lazca, Fransızca, İtalyanca gibi pek çok dilde bu iki sıfat iki ayrı kelimeyle ifade edilse de maalesef İnternet&amp;rsquo;te var olan verinin çok önemli bir kısmı İngilizce olduğundan bu karmaşa farklı dillere de yayılıyor, en azından farklı dillerde de tartışılıyor.&lt;/p&gt;
+&lt;p&gt;Ama aslında buna benzer İngilizcede olmayan bir dilsel karışıklık &lt;strong&gt;Türkçede var&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Bunu aslında ilk olarak 2019 Özgür Yazılım Yaz Kampı&amp;rsquo;nda fark etmiştim, kampta ilk defa &lt;a href=&#34;https://twitter.com/elasticroot&#34;&gt;Mustafa abi&lt;/a&gt; bir MongoDB kursu açacaktı ve o dönemin tartışması MongoDB&amp;rsquo;nin &lt;a href=&#34;https://www.zdnet.com/article/its-mongodbs-turn-to-change-its-open-source-license/&#34;&gt;yeni lisansı&lt;/a&gt;ydı. Başından beri &lt;a href=&#34;https://www.gnu.org/licenses/agpl-3.0.html&#34;&gt;GNU AGPL&lt;/a&gt; kullanan bir özgür yazılım olan MongoDB, çok radikal bir kararla lisansını kendi yazdıkları &lt;a href=&#34;https://www.mongodb.com/licensing/server-side-public-license&#34;&gt;SSPL&lt;/a&gt; (Server Side Public License) isimli bir lisans ile değiştiriyor ve bu o dönem adeta bir bomba etkisi yaratıyordu. Lisans en basit şekliyle AGPL&amp;rsquo;e bir madde daha ekliyor ve yazılımın &lt;!-- raw HTML omitted --&gt;SaaS&lt;!-- raw HTML omitted --&gt; olarak dağıtılması halinde ilgili SaaS platformunun da tüm altyapısının özgür yazılım olmasını zorunlu kılıyordu. Tam biz kampa hazırlanırken, tartışmalar genelde bu lisansın bir özgür yazılım ya da açık kaynak lisansı olarak değerlendirilip değerlendirilemeyeceği konusunda devam ediyordu. Nitekim aradan 7 sene geçti ve MongoDB-AWS savaşı ile başlayan garip lisans modelleri Elasticsearch, Terraform derken çok ciddi bir etki yarattığı gibi pek çok derin sorunu da beraberinde getirmiş oldu.&lt;/p&gt;
+&lt;p&gt;SSPL ise &lt;a href=&#34;https://opensource.org&#34;&gt;Açık Kaynak İnisiyatifi&lt;/a&gt; tarafından &lt;strong&gt;&amp;ldquo;açık kaynak lisansı&amp;rdquo; olarak değerlendirilmedi.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hmm, burada bir duruyoruz. Ne demek açık kaynak &lt;strong&gt;değil&lt;/strong&gt;, e &lt;em&gt;kaynak kodu ortada&lt;/em&gt; işte?&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Bu yazıyı yazmaya karar verme sebebim, çok sevgili &lt;a href=&#34;https://twitter.com/fkadev&#34;&gt;Fatih&lt;/a&gt;&amp;lsquo;in attığı şu tweet ve altında dönen tartışmalar oldu aslında.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;tr&#34; dir=&#34;ltr&#34;&gt;Hem müthiş proje, hem açık kaynak 🥹 &lt;a href=&#34;https://t.co/W4kh6jQawo&#34;&gt;https://t.co/W4kh6jQawo&lt;/a&gt;&lt;/p&gt;&amp;mdash; fatih kadir akın (@fkadev) &lt;a href=&#34;https://twitter.com/fkadev/status/1880309798404780198?ref_src=twsrc%5Etfw&#34;&gt;January 17, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Alıntılanan tweette &lt;code&gt;Cursor.new&lt;/code&gt; isimli bir projenin &amp;ldquo;public&amp;rdquo; yapıldığı bir &lt;a href=&#34;https://github.com/yavuzyalcintas/cursornew&#34;&gt;GitHub&lt;/a&gt; bağlantısı ile birlikte paylaşılmış. Buraya kadar her şey normal, bağlantıya gittiğimizde herkese açık bir Git deposu ve yazılımın kaynak kodu var, &lt;em&gt;README&lt;/em&gt; dosyasını okumaya başlıyoruz; &lt;strong&gt;o da ne&lt;/strong&gt;?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This project is proprietary software licensed under the Cursor New Proprietary License - see the LICENSE file for details. The software is not open source and requires a valid license for use. For licensing inquiries, please contact &lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Bize proje mülk yazılımdır, açık kaynak değildir diyor?! Özgür değil anladık da, nasıl açık kaynak olamaz?!&lt;/p&gt;
+&lt;p&gt;İşte Türkçedeki kavram kargaşası tam olarak bu: İngilizcede &lt;em&gt;open source software&lt;/em&gt; ve &lt;em&gt;source-available software&lt;/em&gt; olarak ifade edilen iki ayrı kavram, maalesef Türkçede &lt;strong&gt;açık kaynak&lt;/strong&gt; yazılım ve &lt;strong&gt;açık kaynak kodlu&lt;/strong&gt; yazılım olarak ifade ediliyor&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. Şimdi kavramlar netleşmeye başladıysa bir tur üzerinden geçelim:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Açık kaynak yazılım&lt;/strong&gt;: Özgür yazılım hareketinden 1998 yılında &lt;em&gt;politik sebeplerden&lt;/em&gt; ayrılan Açık Kaynak topluluğu tarafından yazılan 10 maddelik &lt;a href=&#34;https://opensource.org/osd&#34;&gt;Açık Kaynak Tanımı&lt;/a&gt;&amp;rsquo;na uyan lisanslarla lisanslanmış yazılımlar. Açık kaynak tanımı çok büyük ölçüde &lt;a href=&#34;https://oyd.org.tr/yazilar/ozgur-yazilim/&#34;&gt;özgür yazılım tanımı&lt;/a&gt; ile örtüşür, ancak farklı bir perspektiften&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; yazılmıştır. Dolayısıyla bir yazılıma açık kaynak diyebilmek için kaynak kodunun açık olması yetmez, tanımdaki esasları da sağlamak zorundadır.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Açık kaynak kodlu yazılım&lt;/strong&gt;: Özgür yazılım ya da açık kaynak hareketi ile ilgisi olmayan, hatta bir hareket de olmayan, kaynak kodu erişilebilir durumda olan yazılımlara verilen isim. Kaynak kodunun erişilebilir olması kullanıcıyla ilgili yazılım üzerinde &lt;strong&gt;hiçbir hak sağlamaz&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yani örneğin, aslında açık kaynak sandığımız &lt;a href=&#34;https://github.com/akaunting/akaunting/blob/master/LICENSE.txt&#34;&gt;Akaunting&lt;/a&gt; veya &lt;a href=&#34;https://github.com/hashicorp/terraform/blob/main/LICENSE&#34;&gt;Terraform&lt;/a&gt; gibi &lt;a href=&#34;https://mariadb.com/bsl11/&#34;&gt;Business Source License&lt;/a&gt; ile lisanslanmış yazılımlar ya da &lt;a href=&#34;https://github.com/mongodb/mongo&#34;&gt;MongoDB&lt;/a&gt; veya &lt;a href=&#34;https://github.com/redis/redis&#34;&gt;Redis&lt;/a&gt; gibi &lt;a href=&#34;https://www.mongodb.com/legal/licensing/server-side-public-license&#34;&gt;SSPL&lt;/a&gt; ile lisanslanmış yazılımlar; açık kaynak değil, açık kaynak kodlu yazılımlar&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Kapatmadan önce, bu konu konuşulurken sevgili &lt;a href=&#34;https://twitter.com/eserozvataf&#34;&gt;Eser&lt;/a&gt;&amp;lsquo;in tartışmaya dahil olduğu şu tweete de değinmekte yarar görüyorum:&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;tr&#34; dir=&#34;ltr&#34;&gt;şurada daha önce yapılmış, sonra gaza getirip açık kaynak haline getirttiğim bir varyasyonu var. (öğrenci/öğrenen biri yaptığı için lisans misans demeyin, pr açarsanız tahminen kabul edecektir)&lt;a href=&#34;https://t.co/HFTv2Ubosp&#34;&gt;https://t.co/HFTv2Ubosp&lt;/a&gt;&lt;/p&gt;&amp;mdash; Eser Özvataf (eser.live) (@eserozvataf) &lt;a href=&#34;https://twitter.com/eserozvataf/status/1880550797517414609?ref_src=twsrc%5Etfw&#34;&gt;January 18, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Bir yazılımı özgür ya da açık kaynak yapan şey, kaynak koduna erişilebilirlik değil; yazılımın &lt;strong&gt;lisansıdır&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Bu sebeple, lisansı olmayan yazılımlar&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; ve Git depoları da aslında açık kaynak olmuyor. Son yıllarda özellikle GitHub&amp;rsquo;ın bu konudaki UX geliştirmeleri ve medya etkisi sebebiyle lisansı olmayan yazılımlarda düşüş olsa da, hala GitHub lisans kullanım sıklığı istatistiklerinde lisanssız depolar dünyada ve Türkiye&amp;rsquo;de dördüncü sırada&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://ozcanoguz.com.tr/img/rect6726.png&#34;  alt=&#34;Türkiye için GitHub lisans kullanım istatistikleri grafiği&#34;   /&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;Türkiye için GitHub lisans kullanım istatistikleri grafiği&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Bu tartışmadan çıkardığım özeleştiri, özellikle maalesef ki MongoDB&amp;rsquo;nin SSPL atağı sonrasında ilmek ilmek ilerleyen &lt;em&gt;source available&lt;/em&gt; tehlikesine özgür yazılım ve açık kaynak toplulukları olarak doğru zaman ve şekilde bir eleştiri getirip bu konuyu gündem edemeyişimiz oldu benim için. Ne olursa olsun özgür yazılım cephesinde de açık kaynak hareketinde de olsak, bu topluluklara ve insanlığa katkı vermek isteyen yeni gelenlere bu farkı daha iyi anlatmamız gerekiyor diye düşünüyorum. Ayrıca yazılım geliştirmeye yakın zamanda başlayan ve GitHub gibi alanlarda notlarını, projelerini yayınlayabilecek seviyeye gelmiş bireylere de yol gösterirken, lisanslama konusuna da temel konulardan biri olarak değinmek herkes için çok daha faydalı olacaktır. Bunun için de bir rehber hazırlama fikri aklıma geldi, ilk fırsatta bununla ilgili de çalışacağım.&lt;/p&gt;
+&lt;p&gt;2025 yılının ilk yazısı bu oldu, madem öyle bu da &lt;a href=&#34;https://100daystooffload.com&#34;&gt;#100DaysToOffload&lt;/a&gt; için ilk yazı olsun 🎉&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bu konularda daha fazla okuma yapmak isterseniz, aşağıya bazı bağlantılar bırakıyorum:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://oyd.org.tr/yazilar/&#34;&gt;https://oyd.org.tr/yazilar/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/philosophy/philosophy.html&#34;&gt;https://www.gnu.org/philosophy/philosophy.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://opensource.org/osd&#34;&gt;https://opensource.org/osd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Bu karmaşanın nasıl oluştuğunu tarihsel olarak bilmesem de, akademideki &lt;em&gt;açık erişim&lt;/em&gt; tayfasının sebep olduğuna inanıyorum.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Özgür yazılım tanımı, dört tane özgürlüğü belirtir ve neredeyse tamamen kullanıcının özgürlüğünü temel alır; doğrudan &amp;ldquo;yazılım&amp;rdquo; kavramını ön plana almaz. Açık kaynak tanımı ise yazılımları teknik taraflarıyla ele alır (ör. kaynak kodu okunamaz hale getirilmemelidir der).&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Özgür yazılım olup olmamaları bu yazının konusu değil, bu konuda kesin bir tanım da yok ancak tanımlar ve sağduyu ışığında SSPL&amp;rsquo;i özgür yazılım lisansı olarak kabul etmek gerekeceği kanısındayım. OSI&amp;rsquo;nin, SSPL&amp;rsquo;in açık kaynak lisansı olmadığına karar verme sebebini &amp;ldquo;lisansın şirketlere karşı olan agresif tutumu&amp;rdquo; olarak açıklamasını göz önünde bulundurmakta yarar var.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://unlicense.org&#34;&gt;Unlicense&lt;/a&gt; diye bir şey de var, ama o bir lisans. Evet kavram karmaşası asla bitmez.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://innovationgraph.github.com/global-metrics/licenses&#34;&gt;https://innovationgraph.github.com/global-metrics/licenses&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
